@@ -55,10 +55,11 @@ html {
 }
 
 article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
-  display: block;
+  display: flex;
 }
 
 body {
+  display: flex;
   margin: 0;
   font-family: "Muli", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 1rem;
@@ -88,6 +89,7 @@ p {
   color: #343434;
   margin-top: 0;
   margin-bottom: 1rem;
+
 }
 
 abbr[title],
@@ -397,6 +399,7 @@ h6, .h6 {
 .lead {
   font-size: 1.25rem;
   font-weight: 300;
+  min-width: 20em;
 }
 
 .other-pages-text {
@@ -561,9 +564,21 @@ pre code {
   margin-left: auto;
 }
 
+@media (max-width: 420px) {
+  .container-sm, .container {
+    max-width: 340px;
+  }
+  h1{
+    font-size: 4em;
+  }
+}
+
 @media (min-width: 576px) {
   .container-sm, .container {
     max-width: 540px;
+  }
+  h1{
+    font-size: 4em;
   }
 }
 @media (min-width: 768px) {
@@ -10104,6 +10119,7 @@ p.lead {
 
 section.resume-section {
   display: flex;
+  flex-direction: row;
   align-items: center;
   padding-left: 1rem;
   padding-right: 1rem;
