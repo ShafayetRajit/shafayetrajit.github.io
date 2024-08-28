@@ -402,6 +402,11 @@ h6, .h6 {
   min-width: 20em;
 }
 
+.lead2 {
+  font-size: 1.25rem;
+  min-width: 20em;
+}
+
 .other-pages-text {
   color: #343434;
 }
