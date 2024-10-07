@@ -397,13 +397,13 @@ h6, .h6 {
 }
 
 .lead {
-  font-size: 1.25rem;
+  font-size: 1.1rem;
   font-weight: 300;
   min-width: 20em;
 }
 
 .lead2 {
-  font-size: 1.25rem;
+  font-size: 1.1rem;
   min-width: 20em;
 }
 
@@ -10049,6 +10049,13 @@ p.lead {
   font-family: "Rubik", sans-serif;
   font-weight: 500;
   font-size: 1.5rem;
+}
+
+.subheading2 {
+  font-family: "Rubik", sans-serif;
+  font-weight: 500;
+  font-size: 1.5rem;
+  color: #212529;
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
