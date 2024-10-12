@@ -9,9 +9,7 @@ date: 2024-01-02
     <h5 class="card-title">Hour of Code!</h5>
     <p class="card-text">
       This image captures a moment from Hour of Code 2022, where I had the joy of teaching AI to a group of enthusiastic high school students. While I've led a few workshops before in my university, nothing compared to the excitement and energy of this session! <br>
-    </p>  
-    <p>
-      <em>Photo by NSU ACM SC Promotions Team</em>
+      <em class="text-secondary">Photo by NSU ACM SC Promotions Team</em>
     </p>
   </div>
 </div>
