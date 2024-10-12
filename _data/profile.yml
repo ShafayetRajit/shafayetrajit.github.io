@@ -19,11 +19,11 @@ orcid: 0009-0007-0160-231X
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I graduated in Computer Science and Engineering from North South University, Bangladesh, and currently work as an Intermediate Artificial Intelligence Trainer at Invisible Technologies Inc. 
+    I graduated in Computer Science and Engineering from North South University, Bangladesh, and currently work as an Intermediate Artificial Intelligence Trainer at Invisible Technologies Inc. In my role, I work on teaching Large Language Models (LLM) to focus on the minute details and nuances present in video and audio. This not only advances the proficiency of foundation models but also plays a crucial role in shaping the trajectory of visual media for the future.
   </p>
   <p>
     My research interest lies at the intersection of AI and healthcare, where I aim to explore innovative solutions to improve patient outcomes and advance medical technologies. 
-    Adaptable and eager to learn, I thrive in challenging environments, constantly seeking opportunities for professional growth.
+    I previously worked under Dr Shahnewaz Siddique with a goal to develop and refine deep learning systems for medical imaging applications. Our research also focused on ensuring secure transfer of clinical data.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
@@ -48,7 +48,7 @@ experience:
  - name: North South University, Bangladesh 
    logo: /assets/images/badges/North-South-University.png
    position: Research Assistant 
-   date: April 2024 - Present
+   date: December 2023 - September 2024
 
 #awards:
 #- name: Award Name 2
