@@ -5,7 +5,7 @@ date: 2024-01-12 00:01:00 +0800
 ---
 
 <div class="p-4">
-    <h3>Other Projects</h2>
+    <h3>Other Projects</h3>
     <hr />
     <p>
         <strong>Multi-class Brain Tumor Classification of MRI Image using Federated Learning with Blockchain</strong><br>
