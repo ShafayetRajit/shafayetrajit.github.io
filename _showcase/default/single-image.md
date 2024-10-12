@@ -1,7 +1,7 @@
 ---
 show: true
 width: 4
-date: 2024-01-03
+date: 2024-01-02
 ---
 <div>
   <img class="lazy w-100 rounded-sm" src="{{ '/assets/images/hoc.JPG' | relative_url }}">
