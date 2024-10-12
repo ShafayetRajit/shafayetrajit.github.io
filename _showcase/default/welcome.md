@@ -8,7 +8,7 @@ date: 2024-01-01
     <h3>Other Projects</h3>
     <hr />
     <p>
-        <strong>Multi-class Brain Tumor Classification of MRI Image using Federated Learning with Blockchain</strong><br>
+        <strong>Federated Learning and Blockchain for Multi-Class MRI Brain Tumor Classification</strong><br>
         <em>CSE499 - Undergraduate Dissertation</em><br>
         Supervisor: Dr. Shahnewaz Siddique
     </p>

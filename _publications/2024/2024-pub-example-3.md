@@ -18,5 +18,5 @@ authors:
   - Ifran Rahman Nijhum
   - Rashedur M. Rahman
 links:
-  DOI: https://doi.org/10.1016/j.eswa.2024.125210
+  Paper: https://doi.org/10.1016/j.eswa.2024.125210
 ---
