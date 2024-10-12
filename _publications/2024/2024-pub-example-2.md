@@ -9,7 +9,7 @@ pub_last:       "Accepted for publications"
 pub_date:       "2024"
 
 abstract: >-
-  This study proposes a Federated Learning framework for detecting Oral Squamous Cell Carcinoma from histopathological images, addressing challenges related to data privacy and diversity. By training Convolutional Neural Networks across multiple clients and aggregating their parameters, the framework achieved a test accuracy of 90.18% using non-IID datasets, demonstrating its effectiveness in preserving patient confidentiality while improving diagnostic reliability.
+  This study introduces a Federated Learning framework for detecting Oral Squamous Cell Carcinoma from histopathological images, enabling collaborative model training while preserving patient data privacy. Utilizing both IID and non-IID datasets along with the Federated Averaging algorithm for weighted parameter distribution, the framework demonstrates its effectiveness in enhancing diagnostic reliability and adapting to diverse data distributions.
 cover:          /assets/images/covers/histopathology.jpg
 authors:
   - Shafayet Rajit
