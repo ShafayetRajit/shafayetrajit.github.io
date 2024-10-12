@@ -2,10 +2,10 @@
 title:          "Federated Learning Based Histopathological Image Classification for Oral Squamous Cell Carcinoma"
 #date:           2024-05-12 00:01:00 +0800
 #selected:       true
-pub:            "8th IEEE-EMBS Conference on Biomedical Engineering and Sciences (IECBES) 2024"
+pub:            "8th IEEE-EMBS Conference on Biomedical Engineering and Sciences (IECBES)"
 # pub_pre:        "Submitted to "
 #pub_post:       ''
-pub_last:       "Accepted for publications"
+pub_last:       '<span class="badge badge-pill badge-publication badge-secondary">Accepted for publications</span>'
 pub_date:       "2024"
 
 abstract: >-

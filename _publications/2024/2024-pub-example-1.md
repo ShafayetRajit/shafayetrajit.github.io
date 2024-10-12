@@ -5,7 +5,7 @@ title:          "Multi-class Brain Tumor Classification of MRI Image using Feder
 pub:            "IEEE Region 10 Symposium (TENSYMP)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Accepted for publications'
-pub_last:       "[Accepted for publications]"
+pub_last:       '<span class="badge badge-pill badge-publication badge-secondary">Accepted for publications</span>'
 pub_date:       "2024"
 
 abstract: >-
