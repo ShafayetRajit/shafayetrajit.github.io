@@ -35,14 +35,19 @@ education:
   logo: /assets/images/badges/North-South-University.png
   position: >- 
     Department of Electrical and Computer Engineering <br/>
-    Bachelor of Science in Computer Science and Engineering
+    Bachelor of Science in <b>Computer Science and Engineering</b>
   date: 2019 - 2023
 
 
 experience:
- - name: Invisible Technologies Inc. 
+ - name: Invisible Technologies Inc., USA 
    logo: /assets/images/badges/invisible.png
    position: Intermediate Artificial Intelligence Trainer 
+   date: April 2024 - Present
+
+ - name: North South University, Bangladesh 
+   logo: /assets/images/badges/North-South-University.png
+   position: Research Assistant 
    date: April 2024 - Present
 
 #awards:
