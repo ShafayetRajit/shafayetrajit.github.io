@@ -1,23 +1,29 @@
 ---
 show: true
-width: 8
 date: 2024-01-12 00:01:00 +0800
 ---
 
 <div class="p-4">
-    <h2>Welcome to Showcase!</h2>
+    <h2>Other Projects</h2>
     <hr />
     <p>
-        <code>Showcase</code> is a page where you can show off almost anything you want. It can be the photo of your pets, your favorite books, your favorite projects, or anything else you want to show to the world.
+        <strong>Multi-class Brain Tumor Classification of MRI Image using Federated Learning with Blockchain</strong><br>
+        CSE499 - Undergraduate Dissertation<br>
+        Supervisor: Dr. Shahnewaz Siddique
     </p>
     <p>
-        You can create a new showcase item by creating a new file in the <code>_showcase</code> folder. It gives you the highest flexibility to customize the item using any HTML code.
+        <strong>Molecular-fingerprint based QSAR Analysis to predict SARS-CoV-2 3CLpro inhibitors using enumerated SMILES</strong><br>
+        CSE498R - Directed Research Project<br>
+        Supervisor: Dr. Tanzilur Rahman
     </p>
     <p>
-        Cards are ordered by the <code>date</code> field in the front matter in descending order. The <code>width</code> field is used to determine the width of the card, ranging from 1 to 12.
-        Layout is done by the <a href="https://masonry.desandro.com/" target="_blank">Masonry</a> library.
+        <strong>Multi-label Classification of Bengali Hate Comments on Social Media</strong><br>
+        CSE465 - Pattern Recognition and Neural Network Project<br>
+        Supervisor: Dr. Mohammad Ashrafuzzaman Khan
     </p>
     <p>
-        For a tidy layout, it is recommended to set the width of the cards to be either multiple of 3 or multiple of 4 for all cards, except for small badges that do not take up much space (width=1).
+        <strong>Post-Covid Psychological Distress Detection Using Machine Learning Techniques</strong><br>
+        CSE299 - Junior Design Research Project<br>
+        Supervisor: Dr. Shahnewaz Siddique
     </p>
 </div>
