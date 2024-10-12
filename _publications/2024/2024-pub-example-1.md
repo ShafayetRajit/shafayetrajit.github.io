@@ -2,14 +2,14 @@
 title:          "Multi-class Brain Tumor Classification of MRI Image using Federated Learning with Blockchain"
 #date:           2024-05-12 00:01:00 +0800
 #selected:       true
-pub:            "2024 IEEE Region 10 Symposium (TENSYMP)"
+pub:            "IEEE Region 10 Symposium (TENSYMP)"
 # pub_pre:        "Submitted to "
-pub_post:       'Accepted for publications'
-# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
+# pub_post:       'Accepted for publications'
+pub_last:       "Accepted for publications"
 pub_date:       "2024"
 
-#abstract: >-
-#  Photo by Pineapple Supply Co. on Unsplash. Please put a tldr (too-long-didnt-read, 1~2 sentences) of your publication here. It is not recommended to put the actual abstract here because it is usually too long to fit in. $\LaTeX$ is supported. $a=b+c$.
+abstract: >-
+  This work presents a Federated Learning framework for diagnosing brain tumors while preserving patient data privacy through secure model parameter sharing facilitated by Blockchain technology. By training deep learning classifiers locally at healthcare institutions and employing a weighted average aggregation method, the framework achieved an impressive 93.75% accuracy in classifying four distinct tumor types, highlighting its potential for collaborative medical diagnosis amidst data diversity challenges.
 cover:          /assets/images/covers/brain.jpg
 authors:
   - Shafayet Rajit

@@ -8,8 +8,8 @@ pub:            "Expert Systems with Applications"
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2024"
 
-#abstract: >-
-#  Photo by Pineapple Supply Co. on Unsplash. Please put a tldr (too-long-didnt-read, 1~2 sentences) of your publication here. It is not recommended to put the actual abstract here because it is usually too long to fit in. $\LaTeX$ is supported. $a=b+c$.
+abstract: >-
+  This work presents a novel pipeline for automatically categorizing and restoring degraded aerial images captured by UAVs, utilizing a lightweight adaptive degradation classifier and a pre-trained transformer-based restoration model. The system achieved high classification accuracy and effective restoration, demonstrating its applicability in vehicle detection and highlighting avenues for future improvements.
 cover:          /assets/images/covers/aerial-image.jpg
 authors:
   - Md Yearat Hossain
