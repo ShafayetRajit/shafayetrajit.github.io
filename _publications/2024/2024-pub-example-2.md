@@ -5,7 +5,7 @@ title:          "Federated Learning Based Histopathological Image Classification
 pub:            "8th IEEE-EMBS Conference on Biomedical Engineering and Sciences (IECBES)"
 # pub_pre:        "Submitted to "
 #pub_post:       ''
-pub_last:       '<span class="badge badge-pill badge-publication badge-secondary">Accepted for publications</span>'
+pub_last:       "<mark>Accepted for publications</mark>"
 pub_date:       "2024"
 
 abstract: >-
