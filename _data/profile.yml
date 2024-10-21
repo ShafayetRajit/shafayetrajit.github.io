@@ -24,7 +24,11 @@ short_bio: >-
   </p>
   <p>
     My research interest lies at the intersection of AI and healthcare, where I aim to explore innovative solutions to improve patient outcomes and advance medical technologies. 
-    I previously worked under Dr Shahnewaz Siddique with a goal to develop and refine deep learning systems for medical imaging applications. Our research also focused on ensuring secure transfer of clinical data.
+    I previously worked under <a href="http://ece.northsouth.edu/people/dr-shahnewaz-siddique/">Dr. Shahnewaz Siddique</a> with a goal to develop and refine deep learning systems for medical imaging applications. Our research also focused on ensuring secure transfer of clinical data.
+  </p>
+  <p>
+    I am currently working on 2D image-based drug discovery methods for Dengue treatment. The project aims to accelerate the drug discovery process by utilizing visual representations of molecular structures to predict their effectiveness. 
+    This research is supervised by <a href="https://sites.google.com/site/tanzilctg/">Dr. Tanzilur Rahman</a>, and it holds promise for contributing to the global effort to combat Dengue.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
