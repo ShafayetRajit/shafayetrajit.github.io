@@ -1,19 +1,22 @@
 ---
-title:          "Federated Learning Based Histopathological Image Classification for Oral Squamous Cell Carcinoma"
+title:          "Multi-class Brain Tumor Classification of MRI Image using Federated Learning with Blockchain"
 #date:           2024-05-12 00:01:00 +0800
 #selected:       true
-pub:            "8th IEEE-EMBS Conference on Biomedical Engineering and Sciences (IECBES)"
+pub:            "IEEE Region 10 Symposium (TENSYMP)"
 # pub_pre:        "Submitted to "
-#pub_post:       ''
+# pub_post:       'Accepted for publications'
 pub_last:       "<mark>Accepted for publications</mark>"
 pub_date:       "2024"
 
 abstract: >-
-  This study introduces a Federated Learning framework for detecting Oral Squamous Cell Carcinoma from histopathological images, enabling collaborative model training while preserving patient data privacy. Utilizing both IID and non-IID datasets along with the Federated Averaging algorithm for weighted parameter distribution, the framework demonstrates its effectiveness in enhancing diagnostic reliability and adapting to diverse data distributions.
-cover:          /assets/images/covers/histopathology.jpg
+  This work presents a Federated Learning framework for diagnosing brain tumors while preserving patient data privacy through secure model parameter sharing facilitated by Blockchain technology. Building upon my undergraduate dissertation, this research extends the previous work by using an efficient and accelerated weighted average aggregation method, the framework achieved impressive accuracy in classifying four tumor types, showcasing its efficiency and potential for collaborative medical diagnosis.
+cover:          /assets/images/covers/brain.jpg
 authors:
   - Shafayet Rajit
-  - Md. Abdullah Al Sayed
+  - Zannatul Ferdous
+  - Md. Mashruf Ehsan
+  - Nazmoon Nahar
+  - Shahnewaz Siddique
 #links:
 #  DOI: https://doi.org/10.1016/j.eswa.2024.125210
 ---

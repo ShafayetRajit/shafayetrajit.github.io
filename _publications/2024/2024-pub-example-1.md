@@ -1,22 +1,22 @@
 ---
-title:          "Multi-class Brain Tumor Classification of MRI Image using Federated Learning with Blockchain"
+title:          "Adaptive and Automatic Aerial Image Restoration Pipeline Leveraging Pre-Trained Image Restorer with Lightweight Fully Convolutional Network"
 #date:           2024-05-12 00:01:00 +0800
 #selected:       true
-pub:            "IEEE Region 10 Symposium (TENSYMP)"
+pub:            "Expert Systems with Applications"
 # pub_pre:        "Submitted to "
-# pub_post:       'Accepted for publications'
-pub_last:       "<mark>Accepted for publications</mark>"
+# pub_post:       'Under review.'
+# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2024"
 
 abstract: >-
-  This work presents a Federated Learning framework for diagnosing brain tumors while preserving patient data privacy through secure model parameter sharing facilitated by Blockchain technology. Building upon my undergraduate dissertation, this research extends the previous work by using an efficient and accelerated weighted average aggregation method, the framework achieved impressive accuracy in classifying four tumor types, showcasing its efficiency and potential for collaborative medical diagnosis.
-cover:          /assets/images/covers/brain.jpg
+  This work presents a novel pipeline for automatically categorizing and restoring degraded aerial images captured by UAVs, utilizing a lightweight adaptive degradation classifier and a pre-trained transformer-based restoration model. The system achieved high classification accuracy and effective restoration, demonstrating its applicability in vehicle detection and highlighting avenues for future improvements.
+cover:          /assets/images/covers/aerial-image.jpg
 authors:
+  - Md Yearat Hossain
+  - Md Mahbub Hasan Rakib
   - Shafayet Rajit
-  - Zannatul Ferdous
-  - Md. Mashruf Ehsan
-  - Nazmoon Nahar
-  - Shahnewaz Siddique
-#links:
-#  DOI: https://doi.org/10.1016/j.eswa.2024.125210
+  - Ifran Rahman Nijhum
+  - Rashedur M. Rahman
+links:
+  Paper: https://doi.org/10.1016/j.eswa.2024.125210
 ---
