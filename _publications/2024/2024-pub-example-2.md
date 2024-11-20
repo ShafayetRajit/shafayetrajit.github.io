@@ -5,7 +5,7 @@ title:          "Multi-class Brain Tumor Classification of MRI Image using Feder
 pub:            "IEEE Region 10 Symposium (TENSYMP)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Accepted for publications'
-pub_last:       "<mark>Accepted for publications</mark>"
+pub_last:       ""
 pub_date:       "2024"
 
 abstract: >-
@@ -17,6 +17,6 @@ authors:
   - Md. Mashruf Ehsan
   - Nazmoon Nahar
   - Shahnewaz Siddique
-#links:
-#  DOI: https://doi.org/10.1016/j.eswa.2024.125210
+links:
+  Paper: https://doi.org/10.1109/TENSYMP61132.2024.10752160
 ---
