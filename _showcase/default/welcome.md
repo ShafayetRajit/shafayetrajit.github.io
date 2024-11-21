@@ -4,7 +4,7 @@ width: 8
 date: 2024-01-01 
 ---
 
-<div class="p-4">
+<div class="p-2 pb-2">
     <h3>Other Projects</h3>
     <hr>
     <p>
