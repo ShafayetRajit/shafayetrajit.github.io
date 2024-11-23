@@ -1,6 +1,6 @@
 ---
 show: true
-width: 8
+width: 7
 date: 2024-01-01 
 ---
 
