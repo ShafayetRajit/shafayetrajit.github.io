@@ -14,7 +14,7 @@ date: 2024-01-02
     </p>
   </div> -->
 
-  <div>
+
   <!-- Image Section -->
   <div class="lazy w-100 rounded-sm">
     <img src="{{ '/assets/images/hoc.JPG' | relative_url }}" alt="Hour of Code" class="img-fluid" style="max-width: 450px; height: auto;">
