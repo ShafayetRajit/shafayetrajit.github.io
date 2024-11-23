@@ -1,6 +1,6 @@
 ---
 show: true
-width: 4
+width: 12
 date: 2024-01-02
 ---
 <div>
