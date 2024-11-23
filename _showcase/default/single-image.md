@@ -14,12 +14,11 @@ date: 2024-01-02
     </p>
   </div> -->
 
-  <div class="d-flex align-items-center">
+  <div>
   <!-- Image Section -->
-  <div class="lazy w-100 rounded-sm me-3">
-    <img src="{{ '/assets/images/hoc.JPG' | relative_url }}" alt="Hour of Code" class="img-fluid" style="max-width: 200px; height: auto;">
+  <div class="lazy w-100 rounded-sm">
+    <img src="{{ '/assets/images/hoc.JPG' | relative_url }}" alt="Hour of Code" class="img-fluid" style="max-width: 450px; height: auto;">
   </div>
-  
   <!-- Text Section -->
   <div>
     <h5 class="card-title">Hour of Code!</h5>
