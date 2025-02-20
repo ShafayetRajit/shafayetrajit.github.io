@@ -47,10 +47,10 @@ education:
 experience:
  - name: Invisible Technologies Inc., USA 
    logo: /assets/images/badges/invisible.png
-   position: Intermediate Artificial Intelligence Trainer 
-   date: Apr 2024 - Jan 2025
    position: Advanced Artificial Intelligence Trainer 
    date: Feb 2025 - Present
+   prev-position: Intermediate Artificial Intelligence Trainer 
+   prev-date: Apr 2024 - Jan 2025
 
  - name: North South University, Bangladesh 
    logo: /assets/images/badges/North-South-University.png
