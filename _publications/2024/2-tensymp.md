@@ -1,6 +1,6 @@
 ---
 title:          "Multi-class Brain Tumor Classification of MRI Image using Federated Learning with Blockchain"
-date:           2024-08-08 00:01:00 +0800
+#date:           2024-08-08 00:01:00 +0800
 #selected:       true
 pub:            "IEEE Region 10 Symposium (TENSYMP)"
 # pub_pre:        "Submitted to "
