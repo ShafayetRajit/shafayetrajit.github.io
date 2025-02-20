@@ -1,6 +1,6 @@
 ---
 title:          "Adaptive and Automatic Aerial Image Restoration Pipeline Leveraging Pre-Trained Image Restorer with Lightweight Fully Convolutional Network"
-#date:           2024-05-12 00:01:00 +0800
+date:           2025-01-01 00:01:00 +0800
 #selected:       true
 pub:            "Expert Systems with Applications"
 # pub_pre:        "Submitted to "
