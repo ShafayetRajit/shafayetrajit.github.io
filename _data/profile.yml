@@ -4,7 +4,7 @@ navbar_name: "Shafayet Rajit"
 
 positions:
 - logo: /assets/images/badges/invisible.png  # Logo is optional
-  name: <b> Intermediate AI Trainer @ Invisible </b>
+  name: <b> Advanced AI Trainer @ Invisible </b>
 
 
 
@@ -20,7 +20,7 @@ researchgate: Shafayet-Rajit
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I graduated in Computer Science and Engineering from North South University, Bangladesh, and currently work as an Intermediate Artificial Intelligence Trainer at Invisible Technologies Inc. In my role, I work on teaching Large Language Models (LLM) to focus on the minute details and nuances present in video and audio. This not only advances the proficiency of foundation models but also plays a crucial role in shaping the trajectory of visual media for the future.
+    I graduated in Computer Science and Engineering from North South University, Bangladesh, and currently work as an Advanced Artificial Intelligence Trainer at Invisible Technologies Inc. In my role, I work on teaching Large Language Models (LLM) to focus on the minute details and nuances present in video and audio. This not only advances the proficiency of foundation models but also plays a crucial role in shaping the trajectory of visual media for the future.
   </p>
   <p>
     My research interest lies at the intersection of AI and healthcare, where I aim to explore innovative solutions to improve patient outcomes and advance medical technologies. 
@@ -47,7 +47,7 @@ education:
 experience:
  - name: Invisible Technologies Inc., USA 
    logo: /assets/images/badges/invisible.png
-   position: Intermediate Artificial Intelligence Trainer 
+   position: Advanced Artificial Intelligence Trainer 
    date: Apr 2024 - Present
 
  - name: North South University, Bangladesh 
