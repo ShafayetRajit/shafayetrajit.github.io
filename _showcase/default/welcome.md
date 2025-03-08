@@ -8,7 +8,7 @@ date: 2024-01-01
     <h3>Other Projects</h3>
     <hr>
     <p>
-        <strong>Molecular-fingerprint based QSAR Analysis to predict SARS-CoV-2 3CLpro inhibitors using enumerated SMILES</strong><br> <a href="https://shafayetrajit.github.io/blog/2023/7/31/3clpro-qsar.html">[Project Page]</a>
+        <strong>Molecular-fingerprint based QSAR Analysis to predict SARS-CoV-2 3CLpro inhibitors using enumerated SMILES</strong><br> <!--<a href="https://shafayetrajit.github.io/blog/2023/7/31/3clpro-qsar.html">[Project Page]</a>-->
         <em>CSE498R - Directed Research Project</em><br>
         Supervisor: Dr. Tanzilur Rahman
     </p>
@@ -23,7 +23,7 @@ date: 2024-01-01
         Supervisor: Dr. Mohammad Ashrafuzzaman Khan
     </p>
     <p>
-        <strong>Post-Covid Psychological Distress Detection Using Machine Learning Techniques</strong><br> <a href="https://shafayetrajit.github.io/blog/2022/10/31/covid.html">[Project Page]</a>
+        <strong>Post-Covid Psychological Distress Detection Using Machine Learning Techniques</strong><br> <!--<a href="https://shafayetrajit.github.io/blog/2022/10/31/covid.html">[Project Page]</a>-->
         <em>CSE299 - Junior Design Research Project</em><br>
         Supervisor: Dr. Shahnewaz Siddique
     </p>
