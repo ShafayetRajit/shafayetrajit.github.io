@@ -15,9 +15,10 @@ The COVID-19 pandemic not only affected physical health but also took a severe t
 
 The study collected data from 230 participants using a questionnaire divided into two parts: personal lifestyle during COVID-19 and a widely used anxiety assessment tool, the GAD-7 scale. The goal was to predict anxiety levels based solely on lifestyle information.
 
-<p align="center">
-![](/assets/images/blog/data-distribution-covid-mental.png){: width="500"}*Data distribution*
-</p>
+
+![](/assets/images/blog/data-distribution-covid-mental.png){: width="500"}
+*Data distribution*
+
 
 ## Machine Learning Implementation
 
