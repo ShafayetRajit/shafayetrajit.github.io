@@ -6,7 +6,7 @@ excerpt: ""
 categories: blog
 ---
 
-<p class="text-info">.text-info</p>
+<p class="text-info"><em>This was my first hands-on experience with machine learning, where I handled every step—from collecting data through surveys to training and testing the models. While the project had its limitations, it was a valuable learning experience.</em></p>
 
 The COVID-19 pandemic not only affected physical health but also took a severe toll on mental well-being. Social isolation, uncertainty, and fear led to increased anxiety and psychological distress among people worldwide. In this research project conducted at North South University, we explore how machine learning can help detect mental health struggles post-pandemic.
 
@@ -16,8 +16,7 @@ The COVID-19 pandemic not only affected physical health but also took a severe t
 The study collected data from 230 participants using a questionnaire divided into two parts: personal lifestyle during COVID-19 and a widely used anxiety assessment tool, the GAD-7 scale. The goal was to predict anxiety levels based solely on lifestyle information.
 
 
-![](/assets/images/blog/data-distribution-covid-mental.png){: width="500"}
-*Data distribution*
+![Data distribution](/assets/images/blog/data-distribution-covid-mental.png){: width="500"}
 
 
 ## Machine Learning Implementation
@@ -39,5 +38,5 @@ The results highlighted how COVID-19 impacted mental health and how machine lear
 
 This study paves the way for AI-driven mental health screening, making early intervention more accessible. As machine learning evolves, such models can become valuable tools in mental health assessments, helping individuals receive timely support.
 
-_This was my first hands-on experience with machine learning, where I handled every step—from collecting data through surveys to training and testing the models. While the project had its limitations, it was a valuable learning experience._
+
 
