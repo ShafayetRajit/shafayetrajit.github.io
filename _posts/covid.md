@@ -15,7 +15,10 @@ The COVID-19 pandemic not only affected physical health but also took a severe t
 
 The study collected data from 230 participants using a questionnaire divided into two parts: personal lifestyle during COVID-19 and a widely used anxiety assessment tool, the GAD-7 scale. The goal was to predict anxiety levels based solely on lifestyle information.
 
-![Data distribution](/assets/images/blog/data-distribution-covid-mental.png)
+<p align="center">
+![](/assets/images/blog/data-distribution-covid-mental.png){: width="500"}
+*Data distribution*
+</p>
 
 ## Machine Learning Implementation
 
@@ -36,5 +39,5 @@ The results highlighted how COVID-19 impacted mental health and how machine lear
 
 This study paves the way for AI-driven mental health screening, making early intervention more accessible. As machine learning evolves, such models can become valuable tools in mental health assessments, helping individuals receive timely support.
 
-* This was my first hands-on experience with machine learning, where I handled every step—from collecting data through surveys to training and testing the models. While the project had its limitations, it was a valuable learning experience. *
+_This was my first hands-on experience with machine learning, where I handled every step—from collecting data through surveys to training and testing the models. While the project had its limitations, it was a valuable learning experience._
 
