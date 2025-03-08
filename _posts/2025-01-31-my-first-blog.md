@@ -1,0 +1,40 @@
+---
+layout: post
+title: "Post-COVID19 Psychological Distress Detection using Machine Learning Techniques"
+date: 2022-10-31
+excerpt: ""
+categories: blog
+---
+
+<p class="text-info">.text-info</p>
+
+The COVID-19 pandemic not only affected physical health but also took a severe toll on mental well-being. Social isolation, uncertainty, and fear led to increased anxiety and psychological distress among people worldwide. In this research project conducted at North South University, we explore how machine learning can help detect mental health struggles post-pandemic.
+
+
+## The Research Approach
+
+The study collected data from 230 participants using a questionnaire divided into two parts: personal lifestyle during COVID-19 and a widely used anxiety assessment tool, the GAD-7 scale. The goal was to predict anxiety levels based solely on lifestyle information.
+
+![Data distribution](/assets/images/blog/data-distribution-covid-mental.png)
+
+## Machine Learning Implementation
+
+To achieve this, we experimented with three classification algorithms:
+
+- K-Nearest Neighbors (KNN): Achieved 53.4% accuracy after applying data balancing techniques.
+- Decision Tree: Performed the best, reaching an accuracy of 54.7%.
+- Logistic Regression: Scored 50.5% accuracy, performing well in extreme cases (minimal or severe anxiety).
+
+The study found that the Decision Tree model was the most effective in identifying anxiety levels, though accuracy was limited due to data constraints.
+
+## Key Findings & Limitations
+
+The results highlighted how COVID-19 impacted mental health and how machine learning can aid in early detection. However, the research faced challenges, including a relatively small and demographically biased dataset. Future work should focus on expanding data collection and refining algorithms for better accuracy.
+
+
+## The Future of Mental Health Tech
+
+This study paves the way for AI-driven mental health screening, making early intervention more accessible. As machine learning evolves, such models can become valuable tools in mental health assessments, helping individuals receive timely support.
+
+* This was my first hands-on experience with machine learning, where I handled every step—from collecting data through surveys to training and testing the models. While the project had its limitations, it was a valuable learning experience. *
+
