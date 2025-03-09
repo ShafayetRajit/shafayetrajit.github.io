@@ -22,23 +22,15 @@ I am currently working on 2D image-based drug discovery methods for Dengue treat
 
 **Invisible Technologies Inc., USA**
 
-Advanced Artificial Intelligence Trainer 
+Advanced Artificial Intelligence Trainer &mdash;*Feb 2025 - Present*
 
-*Feb 2025 - Present*
-
-<br>
-
-Intermediate Artificial Intelligence Trainer
-
-*Apr 2024 - Jan 2025*
+Intermediate Artificial Intelligence Trainer &mdash;*Apr 2024 - Jan 2025*
 
 <br />
 
 **North South University, Bangladesh**
 
-Research Assistant 
-
-*Dec 2023 - Sept 2024*
+Research Assistant &mdash;*Dec 2023 - Sept 2024*
 
 <hr>
 
@@ -60,8 +52,7 @@ BS, Computer Science and Engineering
 
 +  **S. Rajit**, Z. F. Ananna, M. M. Ehsan, N. N. Punom and S. Siddique, **Multi-Class Brain Tumor Classification of MRI Image Using Federated Learning with Blockchain**, *IEEE Region 10 Symposium (TENSYMP)*, 2024 <a href="https://ieeexplore.ieee.org/document/10752160">[Paper]</a>
 
-+ **S. Rajit**, M. A. A. Sayed, **Federated Learning Based Histopathological Image Classification for Oral Squamous Cell Carcinoma**, *8th IEEE-EMBS Conference on Biomedical Engineering and Sciences (IECBES)*, 2024
-<p class="text-warning">Presented; Proceedings Pending</p>
++ **S. Rajit**, M. A. A. Sayed, **Federated Learning Based Histopathological Image Classification for Oral Squamous Cell Carcinoma**, *8th IEEE-EMBS Conference on Biomedical Engineering and Sciences (IECBES)*, 2024 [Presented; Proceedings Pending]
 
 
 

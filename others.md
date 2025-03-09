@@ -52,7 +52,7 @@ Supervisor: Dr. Mohammad Ashrafuzzaman Khan
 
 ### Hour of Code! 
 
-<img src="/images/hoc.jpg" class="floatpic" width="70%">
+<img src="images/hoc.JPG" class="floatpic" width="70%">
 
 This image captures a moment from Hour of Code 2022, where I had the joy of teaching AI to a group of enthusiastic high school students. While I've led a few workshops before in my university, nothing compared to the excitement and energy of this session!
 <p class="text-secondary">
