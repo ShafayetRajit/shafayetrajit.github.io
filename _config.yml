@@ -8,7 +8,7 @@ disqus_shortname: Shafayet
 
 # Owner/author information
 owner:
-  name:           
+  name:           Shafayet Rajit
   avatar:         portrait.jpg
   bio:            
   email:          shafayet.rajit.101@gmail.com
@@ -26,8 +26,8 @@ owner:
 links:
   - title: Publications
     url: /publications/         
-  - title: Contact
-    url: /contact/      
+  - title: Others
+    url: /others/      
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Asia/Dhaka
