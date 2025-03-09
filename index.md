@@ -1,6 +1,6 @@
 ---
 layout: home3
-title: About me
+title: 
 description: "Shafayet Rajit's website"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
