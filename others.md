@@ -12,42 +12,52 @@ sidebar:
 #### Other Projects
 
 **Molecular-fingerprint based QSAR Analysis to predict SARS-CoV-2 3CLpro inhibitors using enumerated SMILES**
+
 *CSE498R - Directed Research Project*
+
 Supervisor: Dr. Tanzilur Rahman
 
 <br />
 
 **Post-Covid Psychological Distress Detection Using Machine Learning Techniques**
+
 *CSE299 - Junior Design Research Project*
+
 Supervisor: Dr. Shahnewaz Siddique
 
 <br />
 
 **Early Psychosis Detection using EEG-Derived Features**
+
 *CSE496 - Introduction to Biomedical Engineering*
+
 Supervisor: Dr. Tanzilur Rahman
 
 <br />
 
+
 **Multi-label Classification of Bengali Hate Comments on Social Media**
+
 *CSE465 - Pattern Recognition and Neural Network Project*
+
 Supervisor: Dr. Mohammad Ashrafuzzaman Khan
 
 <br />
 
 **Dialogue Summarization using Gemma 2B**
+
 *Pet project*
 
 <hr>
 
 ### Hour of Code! 
 
-<img src="{{ site.url }}/images/theia/hoc.jpg" class="floatpic" width="70%">
+<img src="{{ site.url }}/images/hoc.jpg" class="floatpic" width="70%">
 
 This image captures a moment from Hour of Code 2022, where I had the joy of teaching AI to a group of enthusiastic high school students. While I've led a few workshops before in my university, nothing compared to the excitement and energy of this session!
-```diff
-#Photo by NSU ACM SC Promotions Team
-```
+<p class="text-secondary">
+<em>Photo by NSU ACM SC Promotions Team</em>
+</p>
 
 
 <hr>

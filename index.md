@@ -26,6 +26,8 @@ Advanced Artificial Intelligence Trainer
 
 *Feb 2025 - Present*
 
+
+
 Intermediate Artificial Intelligence Trainer
 
 *Apr 2024 - Jan 2025*
@@ -59,7 +61,7 @@ BS, Computer Science and Engineering
 +  **S. Rajit**, Z. F. Ananna, M. M. Ehsan, N. N. Punom and S. Siddique, **Multi-Class Brain Tumor Classification of MRI Image Using Federated Learning with Blockchain**, *IEEE Region 10 Symposium (TENSYMP)*, 2024 <a href="https://ieeexplore.ieee.org/document/10752160">[Paper]</a>
 
 + **S. Rajit**, M. A. A. Sayed, **Federated Learning Based Histopathological Image Classification for Oral Squamous Cell Carcinoma**, *8th IEEE-EMBS Conference on Biomedical Engineering and Sciences (IECBES)*, 2024
-<mark>Presented; Proceedings Pending</mark>
+<p class="text-warning">Presented; Proceedings Pending</mark>
 
 
 
