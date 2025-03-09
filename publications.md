@@ -1,6 +1,6 @@
 ---
 layout: novipage
-permalink: /publications/
+permalink: publications/
 title: Publications
 tags: [code]
 modified: 09-03-2024

@@ -1,7 +1,7 @@
 ---
 layout: novipage
-permalink: /others/
-title: Misc
+permalink: others/
+title: Others
 tags: 
 modified: 28-06-2019
 comments: false
@@ -52,7 +52,7 @@ Supervisor: Dr. Mohammad Ashrafuzzaman Khan
 
 ### Hour of Code! 
 
-<img src="{{ site.url }}/images/hoc.jpg" class="floatpic" width="70%">
+<img src="/images/hoc.jpg" class="floatpic" width="70%">
 
 This image captures a moment from Hour of Code 2022, where I had the joy of teaching AI to a group of enthusiastic high school students. While I've led a few workshops before in my university, nothing compared to the excitement and energy of this session!
 <p class="text-secondary">
@@ -65,11 +65,11 @@ This image captures a moment from Hour of Code 2022, where I had the joy of teac
 ### Extra-curricular Activities
 
 In 2022, I served as the Treasurer for the NSU ACM Student Chapter, where I was responsible for overseeing the chapter's financial matters and keeping both ACM headquarters and NSU authorities informed about our activities. Prior to this role, I managed the Corporate and Publications team within the chapter. Additionally, I served as a mentor, assisting members in grasping course-related topics.
-
+<br>
 I am also a student member of IEEE and ACM.
 
 <hr>
 
 ### Interests 
 
-I unwind with a good book or immerse myself in fantastical worlds through movies, TV series, and open-world games. My taste in movies is eclectic, and I enjoy everything from gripping sci-fi to captivating historical drama. Whenever possible, I hit the road to explore new places and cultures. I occasionally write on Medium about various concepts. Feel free to check out my Letterboxd and Storygraph profile.
+I unwind with a good book or immerse myself in fantastical worlds through movies, TV series, and open-world games. My taste in movies is eclectic, and I enjoy everything from gripping sci-fi to captivating historical drama. Whenever possible, I hit the road to explore new places and cultures. I occasionally write on ![Medium](https://medium.com/@shafayet.rajit.101) about various concepts. Feel free to check out my ![Letterboxd](https://letterboxd.com/shafayet_rajit/) and ![Storygraph](https://app.thestorygraph.com/profile/shafayet_rajit) profile.
