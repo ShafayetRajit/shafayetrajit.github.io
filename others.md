@@ -53,7 +53,9 @@ Supervisor: Dr. Mohammad Ashrafuzzaman Khan
 ### Hour of Code! 
 
 <img src="{{ site.url }}/images/hoc.JPG">
+
 <br>
+
 This image captures a moment from Hour of Code 2022, where I had the joy of teaching AI to a group of enthusiastic high school students. While I've led a few workshops before in my university, nothing compared to the excitement and energy of this session!
 
 <em>Photo by NSU ACM SC Promotions Team</em>
