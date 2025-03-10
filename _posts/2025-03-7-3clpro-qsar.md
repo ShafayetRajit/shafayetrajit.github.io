@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Molecular-fingerprint based QSAR Analysis to predict SARS-CoV-2 3CLpro inhibitors using enumerated SMILES"
 permalink: /posts/3clpro-qsar/
 excerpt: 
