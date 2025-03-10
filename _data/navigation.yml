@@ -12,8 +12,8 @@ sidebar-pubs:
     url: /publications/#conferences
   
 sidebar-articles:
-  - title: ""
-    url: /
+  title: ""
+  url: /
 
 sidebar-news:
   - title: "2024"

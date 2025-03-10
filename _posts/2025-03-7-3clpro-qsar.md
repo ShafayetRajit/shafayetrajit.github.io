@@ -17,12 +17,11 @@ COVID-19 significantly impacted global health, prompting an urgent need for effe
 
 Quantitative Structure-Activity Relationship (QSAR) modeling predicts biological activity based on chemical structure. Our study uniquely focused on molecular-fingerprint-based QSAR models using augmented Simplified Molecular Input Line Entry System (SMILES), enabling effective data expansion and improved model accuracy.
 
-<center>
 
 ![Workflow](/assets/images/blog/qsar-workflow.png){: width="500"}
 
 *Workflow*
-</center>
+
 
 ## Data Acquisition and Enhancement
 

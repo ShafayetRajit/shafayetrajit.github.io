@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Molecular-fingerprint based QSAR Analysis to predict SARS-CoV-2 3CLpro inhibitors using enumerated SMILES"
+title: "Dialogue Summarization using Gemma 2B"
 permalink: /posts/dialoug-sum/
 excerpt: 
 last_modified_at: 
@@ -31,5 +31,6 @@ Gemma's moderate ROUGE scores indicate both the model’s capability and the are
 ## Key Takeaways
 
 Gemma 2B demonstrates considerable potential in dialogue summarization. With continued fine-tuning and exploration of optimal prompt engineering, Gemma could become a reliable, efficient summarization tool tailored for practical applications across various industries.
+<br>
 
 *[Github repo](https://github.com/ShafayetRajit/Dialogue-Summarization-using-Gemma-2B)* 
