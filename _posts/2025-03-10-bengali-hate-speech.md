@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: novipage
 title: "Multi-label Classification of Bengali Hate Comments on Social Media"
 path: /posts/bengali-hate-speech/
 excerpt: 
@@ -51,4 +51,4 @@ After extensive testing, we found that ReLU as the activation function, Adam as 
 
 Our findings highlight the importance of fine-tuning parameters for better text classification. Future work could explore transformer-based architectures like GPT for even better accuracy. With AI-driven moderation, online spaces can become safer and more inclusive.
 
-[Github repo](https://github.com/ShafayetRajit/Multi-label-Classification-of-Bengali-Hate-Comments-on-Social-Media)
+*[Github repo](https://github.com/ShafayetRajit/Multi-label-Classification-of-Bengali-Hate-Comments-on-Social-Media)*
