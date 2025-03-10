@@ -1,14 +1,8 @@
 ---
+layout: page
 title: "Post-COVID19 Psychological Distress Detection using Machine Learning Techniques"
-date: 2012-03-19
-path: /posts/covid-ml-299/post-index.html
-excerpt: 
-last_modified_at: 2020-01-06T09:59:14-05:00
-image: ../../images/going-static-feature.jpg
-categories: [articles]
-tags: [Jekyll, web development, design, open source]
-comments: false
-toc: true
+permalink: /posts/covid-ml-299/post-index.html
+
 ---
 
 <span style="color:blue"><em>This was my first hands-on experience with machine learning, where I handled every step—from collecting data through surveys to training and testing the models. While the project obviously had its limitations, it was a valuable learning experience.</em></span>
