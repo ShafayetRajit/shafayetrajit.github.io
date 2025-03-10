@@ -8,8 +8,6 @@ categories: [articles]
 tags: [Jekyll, natural language processing, LLM]
 comments: false
 toc: false
-sidebar:
-  nav: blank
 ---
 
 Dialogue summarization is gaining importance with growing reliance on automated communication tools. Efficient summarization models can significantly impact areas such as customer service, meeting transcription, legal documentation, and interview analysis.

@@ -8,8 +8,6 @@ categories: [articles]
 tags: [Jekyll, natural language processing, hate speech, BERT]
 comments: false
 toc: false
-sidebar:
-  nav: blank
 ---
 
 The internet is a powerful platform for communication, but it also exposes users to toxic content. From hate speech to trolling, online discussions can sometimes become hostile. To address this, our project explores a multi-label classification model that detects different types of toxicity in comments.
