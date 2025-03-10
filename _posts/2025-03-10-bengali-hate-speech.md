@@ -1,5 +1,5 @@
 ---
-layout: novipage
+layout: post
 title: "Multi-label Classification of Bengali Hate Comments on Social Media"
 path: /posts/bengali-hate-speech/
 excerpt: 
