@@ -11,7 +11,7 @@ sidebar:
 
 ### Other Projects
 
-**Molecular-fingerprint based QSAR Analysis to predict SARS-CoV-2 3CLpro inhibitors using enumerated SMILES**
+[**Molecular-fingerprint based QSAR Analysis to predict SARS-CoV-2 3CLpro inhibitors using enumerated SMILES**]({{ site.baseurl }}/posts/3clpro-qsar/)
 
 *CSE498R - Directed Research Project*
 
@@ -27,7 +27,7 @@ Supervisor: Dr. Shahnewaz Siddique
 
 <br />
 
-**Early Psychosis Detection using EEG-Derived Features**
+[**Early Psychosis Detection using EEG-Derived Features**]({{ site.baseurl }}/posts/eeg-psychosis/)
 
 *CSE496 - Introduction to Biomedical Engineering*
 
@@ -36,7 +36,7 @@ Supervisor: Dr. Tanzilur Rahman
 <br />
 
 
-**Multi-label Classification of Bengali Hate Comments on Social Media**
+[**Multi-label Classification of Bengali Hate Comments on Social Media**]({{ site.baseurl }}/posts/bengali-hate-speech/)
 
 *CSE465 - Pattern Recognition and Neural Network Project*
 
@@ -44,7 +44,8 @@ Supervisor: Dr. Mohammad Ashrafuzzaman Khan
 
 <br />
 
-**Dialogue Summarization using Gemma 2B**
+[**Dialogue Summarization using Gemma 2B**]({{ site.baseurl }}/posts/dialoug-sum/)
+
 
 *Pet project*
 

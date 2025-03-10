@@ -1,15 +1,13 @@
 ---
+layout: single
 title: "Multi-label Classification of Bengali Hate Comments on Social Media"
-date: 2012-03-19
-path: /posts/bengalihate-speech/
+path: /posts/bengali-hate-speech/
 excerpt: 
-last_modified_at: 2020-01-06T09:59:14-05:00
-image: ../../images/going-static-feature.jpg
+last_modified_at: 
 categories: [articles]
-tags: [Jekyll, web development, design, open source]
-comments: true
-comments_locked: true
-toc: true
+tags: [Jekyll, natural language processing, hate speech, BERT]
+comments: false
+toc: false
 ---
 
 The internet is a powerful platform for communication, but it also exposes users to toxic content. From hate speech to trolling, online discussions can sometimes become hostile. To address this, our project explores a multi-label classification model that detects different types of toxicity in comments.
@@ -52,3 +50,5 @@ After extensive testing, we found that ReLU as the activation function, Adam as 
 ## Key Takeaways
 
 Our findings highlight the importance of fine-tuning parameters for better text classification. Future work could explore transformer-based architectures like GPT for even better accuracy. With AI-driven moderation, online spaces can become safer and more inclusive.
+
+[Github repo](https://github.com/ShafayetRajit/Multi-label-Classification-of-Bengali-Hate-Comments-on-Social-Media)

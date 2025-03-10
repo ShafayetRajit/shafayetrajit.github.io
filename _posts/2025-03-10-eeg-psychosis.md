@@ -1,15 +1,13 @@
 ---
+layout: single
 title: "Molecular-fingerprint based QSAR Analysis to predict SARS-CoV-2 3CLpro inhibitors using enumerated SMILES"
-date: 2012-03-19
-path: /posts/3clpro-qsar/
+path: /posts/eeg-psychosis/
 excerpt: 
-last_modified_at: 2020-01-06T09:59:14-05:00
-image: ../../images/going-static-feature.jpg
+last_modified_at: 
 categories: [articles]
-tags: [Jekyll, web development, design, open source]
-comments: true
-comments_locked: true
-toc: true
+tags: [Jekyll, EEG, signal processing]
+comments: false
+toc: false
 ---
 
 Recent advancements in neuroscience and machine learning are transforming our understanding of psychiatric disorders, especially psychosis. Leveraging EEG (electroencephalogram) data, researchers can now detect nuanced patterns indicative of psychosis, opening new avenues for early intervention.
@@ -29,3 +27,5 @@ Through systematic preprocessing—filtering noise, handling artifacts, and segm
 ## Predictive Modeling and Results
 
 The outcome of our exploration underscored the remarkable potential of EEG-based machine learning models to differentiate between psychotic episodes and typical neurological activity, illuminating the path toward reliable, data-driven psychiatric diagnostics. Such predictive capabilities not only enhance clinical outcomes but also deepen our scientific understanding of psychosis at a neurological level.
+
+[Github repo](https://github.com/ShafayetRajit/Psychosis-Detection-using-EEG-Signals)

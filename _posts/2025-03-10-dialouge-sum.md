@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Molecular-fingerprint based QSAR Analysis to predict SARS-CoV-2 3CLpro inhibitors using enumerated SMILES"
-date: 2012-03-19
-path: /posts/3clpro-qsar/
+path: /posts/dialoug-sum/
 excerpt: 
-last_modified_at: 2020-01-06T09:59:14-05:00
-image: ../../images/going-static-feature.jpg
+last_modified_at: 
 categories: [articles]
-tags: [Jekyll, web development, design, open source]
+tags: [Jekyll, natural language processing, LLM]
 comments: true
 comments_locked: true
 toc: true
@@ -33,3 +32,5 @@ Gemma's moderate ROUGE scores indicate both the model’s capability and the are
 ## Key Takeaways
 
 Gemma 2B demonstrates considerable potential in dialogue summarization. With continued fine-tuning and exploration of optimal prompt engineering, Gemma could become a reliable, efficient summarization tool tailored for practical applications across various industries.
+
+[Github repo](https://github.com/ShafayetRajit/Dialogue-Summarization-using-Gemma-2B)
