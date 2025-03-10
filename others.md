@@ -19,7 +19,7 @@ Supervisor: Dr. Tanzilur Rahman
 
 <br />
 
-[**Post-Covid Psychological Distress Detection Using Machine Learning Techniques**](https://shafayetrajit.github.io/posts/covid-ml-299/)
+[**Post-Covid Psychological Distress Detection Using Machine Learning Techniques**](https://shafayetrajit.github.io/posts/covid-ml-299/post-index.html)
 
 *CSE299 - Junior Design Research Project*
 
