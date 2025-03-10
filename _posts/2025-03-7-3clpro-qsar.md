@@ -8,6 +8,8 @@ categories: [articles]
 tags: [Jekyll, bioinformatics, drug design, protein]
 comments: false
 toc: false
+sidebar:
+  nav: blank
 ---
 
 COVID-19 significantly impacted global health, prompting an urgent need for effective antiviral treatments. Our research aimed to accelerate drug discovery by utilizing computational approaches to identify inhibitors for SARS-CoV-2's 3CLpro enzyme, crucial for viral replication.

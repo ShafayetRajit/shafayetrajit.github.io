@@ -8,6 +8,8 @@ categories: [articles]
 tags: [Jekyll, natural language processing, LLM]
 comments: false
 toc: false
+sidebar:
+  nav: blank
 ---
 
 Dialogue summarization is gaining importance with growing reliance on automated communication tools. Efficient summarization models can significantly impact areas such as customer service, meeting transcription, legal documentation, and interview analysis.
@@ -31,6 +33,7 @@ Gemma's moderate ROUGE scores indicate both the model’s capability and the are
 ## Key Takeaways
 
 Gemma 2B demonstrates considerable potential in dialogue summarization. With continued fine-tuning and exploration of optimal prompt engineering, Gemma could become a reliable, efficient summarization tool tailored for practical applications across various industries.
+
 <br>
 
 *[Github repo](https://github.com/ShafayetRajit/Dialogue-Summarization-using-Gemma-2B)* 

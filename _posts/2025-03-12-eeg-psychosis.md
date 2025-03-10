@@ -8,6 +8,8 @@ categories: [articles]
 tags: [Jekyll, EEG, signal processing]
 comments: false
 toc: false
+sidebar:
+  nav: blank
 ---
 
 Recent advancements in neuroscience and machine learning are transforming our understanding of psychiatric disorders, especially psychosis. Leveraging EEG (electroencephalogram) data, researchers can now detect nuanced patterns indicative of psychosis, opening new avenues for early intervention.
@@ -27,6 +29,7 @@ Through systematic preprocessing—filtering noise, handling artifacts, and segm
 ## Predictive Modeling and Results
 
 The outcome of our exploration underscored the remarkable potential of EEG-based machine learning models to differentiate between psychotic episodes and typical neurological activity, illuminating the path toward reliable, data-driven psychiatric diagnostics. Such predictive capabilities not only enhance clinical outcomes but also deepen our scientific understanding of psychosis at a neurological level.
+
 <br>
 
 *[Github repo](https://github.com/ShafayetRajit/Psychosis-Detection-using-EEG-Signals)*
