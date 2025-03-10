@@ -12,8 +12,8 @@ sidebar-pubs:
     url: /publications/#conferences
   
 sidebar-articles:
-  title: "Github repo"
-  url: /######Github repo
+  - title: "Github repo"
+    url: /######Github repo
 
 sidebar-news:
   - title: "2024"
