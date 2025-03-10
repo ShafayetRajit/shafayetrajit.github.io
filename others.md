@@ -27,7 +27,7 @@ Supervisor: Dr. Shahnewaz Siddique
 
 <br />
 
-[**Early Psychosis Detection using EEG-Derived Features**]({{ site.baseurl }}/posts/eeg-psychosis/)
+[**Early Psychosis Detection using EEG-Derived Features**]({{ site.baseurl }}/articles/eeg-psychosis/)
 
 *CSE496 - Introduction to Biomedical Engineering*
 
