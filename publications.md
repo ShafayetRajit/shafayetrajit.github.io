@@ -11,6 +11,7 @@ sidebar:
 
 
 ## Journals
+
 + M. Y. Hossain, M. M. H. Rakib, **S. Rajit**, I. R. Nijhum, R. M. Rahman, **Adaptive and automatic aerial image restoration pipeline leveraging pre-trained image restorer with lightweight Fully Convolutional Network**, *Expert Systems with Applications*, 2025 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417424020773">[Paper]</a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;This work presents a novel pipeline for automatically categorizing and restoring degraded aerial images captured by UAVs, utilizing a lightweight adaptive degradation classifier and a pre-trained transformer-based restoration model. The system achieved high classification accuracy and effective restoration, demonstrating its applicability in vehicle detection and highlighting avenues for future improvements.
