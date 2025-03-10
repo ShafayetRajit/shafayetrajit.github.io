@@ -1,14 +1,13 @@
 ---
 title: "Post-COVID19 Psychological Distress Detection using Machine Learning Techniques"
 date: 2012-03-19
-path: /posts/covid-ml-299/
+path: /posts/covid-ml-299/index.html
 excerpt: 
 last_modified_at: 2020-01-06T09:59:14-05:00
 image: ../../images/going-static-feature.jpg
 categories: [articles]
 tags: [Jekyll, web development, design, open source]
-comments: true
-comments_locked: true
+comments: false
 toc: true
 ---
 
