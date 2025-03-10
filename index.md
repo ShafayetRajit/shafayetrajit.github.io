@@ -16,6 +16,10 @@ My research interest lies at the intersection of AI and healthcare, where I aim 
 
 I am currently working on 2D image-based drug discovery methods for Dengue treatment. The project aims to accelerate the drug discovery process by utilizing visual representations of molecular structures to predict their effectiveness. This research is supervised by <a href="https://sites.google.com/site/tanzilctg/">Dr. Tanzilur Rahman</a>, and it holds promise for contributing to the global effort to combat Dengue.
 
+<br />
+
+<p style="background: linear-gradient(to left, indigo, cyan); -webkit-background-clip: text; color: transparent;"><em>I am actively exploring PhD opportunities for Fall 2025 admission. If you know of any relevant openings, I would be grateful for your insights. Thank you!</em></p>
+
 <hr>
 
 ## Experience

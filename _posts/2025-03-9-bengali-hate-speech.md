@@ -54,3 +54,8 @@ Our findings highlight the importance of fine-tuning parameters for better text 
 <br>
 
 *[Github repo](https://github.com/ShafayetRajit/Multi-label-Classification-of-Bengali-Hate-Comments-on-Social-Media)*
+
+
+<br>
+
+<span style="color:gray"><em>This post provides a high-level overview of the project, covering key aspects and insights. It does not go in-depth but gives a general idea&mdash;how it was built and what it does. If you're curious about the details, feel free to explore the code or reach out!</em></span>

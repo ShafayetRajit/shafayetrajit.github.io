@@ -40,3 +40,8 @@ Our analysis identified critical molecular features essential for 3CLpro inhibit
 ## Conclusion and Future Outlook
 
 The outcomes highlight computational QSAR as a powerful tool in drug discovery, significantly reducing costs and enhancing research efficiency. Continued refinement with larger datasets could further advance predictive capabilities and hasten therapeutic breakthroughs against COVID-19.
+
+
+<br>
+
+<span style="color:gray"><em>This post provides a high-level overview of the project, covering key aspects and insights. It does not go in-depth but gives a general idea&mdash;how it was built and what it does. If you're curious about the details, feel free to explore the code or reach out!</em></span>
