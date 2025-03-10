@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Post-COVID19 Psychological Distress Detection using Machine Learning Techniques"
-permalink: /posts/covid-ml-299/post-index.html
+permalink: /posts/covid-ml-299/index.html
 
 ---
 
