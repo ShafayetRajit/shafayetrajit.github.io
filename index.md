@@ -18,7 +18,7 @@ I am currently working on 2D image-based drug discovery methods for Dengue treat
 
 <br />
 
-<p style="background-image: linear-gradient(90deg, #020024 0%, #090979 35%, #00d4ff 100%); -webkit-background-clip: text; color: transparent;"><em>I am actively exploring PhD opportunities for Fall 2025 admission. If you know of any relevant openings, I would be grateful for your insights. Thank you!</em></p>
+<p style="background-image: linear-gradient(to left, indigo, #6CB4EE); -webkit-background-clip: text; color: transparent;"><em>I am actively exploring PhD opportunities for Fall 2025 admission. If you know of any relevant openings, I would be grateful for your insights. Thank you!</em></p>
 
 <hr>
 
