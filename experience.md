@@ -40,7 +40,7 @@ This work led to the publication of the paper "Multi-Class Brain Tumor Classific
 
 ## Organizational Roles
 
-**North South university ACM Student Chapter** 
+**North South University ACM Student Chapter** 
 
 Treasurer &mdash; *2022*
 
