@@ -26,11 +26,12 @@ owner:
 # For external links add external: true
 links:
   - title: Publications
-    url: /publications/         
-  - title: Others
-    url: /others/
+    url: /publications/   
   - title: Experience
     url: /experience/      
+  - title: Others
+    url: /others/
+      
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Asia/Dhaka
