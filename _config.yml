@@ -28,7 +28,9 @@ links:
   - title: Publications
     url: /publications/         
   - title: Others
-    url: /others/      
+    url: /others/
+  - title: Experience
+    url: /experience/      
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Asia/Dhaka

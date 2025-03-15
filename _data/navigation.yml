@@ -11,9 +11,11 @@ sidebar-pubs:
   - title: "Conferences"
     url: /publications/#conferences
   
-sidebar-articles:
-  - title: "Github repo"
-    url: /######Github repo
+sidebar-experience:
+  - title: "Professional Journey"
+    url: /experience/#professional-journey
+  - title: "Organizational Roles"
+    url: /experience/#organizational-roles
 
 sidebar-news:
   - title: "2024"
