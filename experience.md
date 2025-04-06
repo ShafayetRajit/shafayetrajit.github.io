@@ -11,6 +11,17 @@ sidebar:
 
 ## Professional Journey
 
+**North South University, Bangladesh**
+
+Research Assistant &mdash; *Apr 2025 - Present*
+
+Supervisor: Dr. Mohammad Rashedur Rahman
+
+- Optimizing advanced computational methods for resource-constrained devices.
+- Deploying and ensuring efficient performance of AI models in low-end hardware environments.
+
+<br>
+
 **Invisible Technologies Inc., USA** 
 
 Advanced Artificial Intelligence Trainer &mdash; *Feb 2025 - Present* 
@@ -30,7 +41,7 @@ Research Assistant &mdash; *Dec 2023 - Sept 2024*
 
 Supervisor: Dr. Shahnewaz Siddique
 
-- Develope and refine AI models for analyzing medical images, particularly MRI scans.
+- Develop and refine AI models for analyzing medical images, particularly MRI scans.
 - Research and apply privacy-preserving AI techniques. 
 - Focus on implementing secure methods for clinical data exchange.
 
