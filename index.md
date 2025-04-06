@@ -16,9 +16,6 @@ My research interest lies at the intersection of AI and healthcare, where I aim 
 
 In parallel, I am working under the supervision of <a href="https://ece.northsouth.edu/people/rashedur-rahman/">Dr. Mohammad Rashedur Rahman</a> on developing efficient techniques tailored for resource-constrained devices. This project focuses on optimizing advanced computational methods to ensure reliable performance within limited hardware environments, making them more accessible for practical, real-world use.
 
-<br />
-
-
 <!-- <p style="background-image: linear-gradient(to left, indigo, #6CB4EE); -webkit-background-clip: text; color: transparent;"><em>I am actively exploring PhD opportunities for Fall 2025 admission. If you know of any relevant openings, I would be grateful for your insights. Thank you!</em></p> -->
 
 <hr>
@@ -28,6 +25,8 @@ In parallel, I am working under the supervision of <a href="https://ece.northsou
 **North South University, Bangladesh**
 
 Research Assistant (under <a href="https://ece.northsouth.edu/people/rashedur-rahman/">Dr. Mohammad Rashedur Rahman</a>) &mdash;*Apr 2025 - Present*
+
+<br />
 
 **Invisible Technologies Inc., USA**
 
