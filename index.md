@@ -10,7 +10,7 @@ I graduated in Computer Science and Engineering from North South University, Ban
 
 <br />
 
-My research interest lies at the intersection of AI and healthcare, where I aim to explore innovative solutions to improve patient outcomes and advance medical technologies. I am currently working on 2D image-based drug discovery methods for Dengue treatment. The project aims to accelerate the drug discovery process by utilizing visual representations of molecular structures to predict their effectiveness. This research is supervised by <a href="https://sites.google.com/site/tanzilctg/">Dr. Tanzilur Rahman</a>, and it holds promise for contributing to the global effort to combat Dengue.
+My research interests lie at the intersection of AI and healthcare, focusing on innovative solutions to improve patient outcomes. Currently, I'm working on 2D image-based drug discovery method for Dengue treatment, using visual representations of molecular structures to accelerate the drug discovery process. Under the guidance of <a href="https://sites.google.com/site/tanzilctg/">Dr. Tanzilur Rahman</a>, this research aims to contribute to the global fight against Dengue.
 
 <br />
 
