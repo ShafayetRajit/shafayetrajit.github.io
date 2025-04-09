@@ -11,8 +11,7 @@ sidebar:
 
 ## Professional Journey
 
-### North South University, Bangladesh
-
+#### North South University, Bangladesh
 **Research Assistant** &mdash; *Apr 2025 - Present*
 
 Supervisor: Dr. Mohammad Rashedur Rahman
@@ -21,7 +20,7 @@ Supervisor: Dr. Mohammad Rashedur Rahman
 
 <br>
 
-### Invisible Technologies Inc., USA
+#### Invisible Technologies Inc., USA
 
 **Coding Artificial Intelligence Trainer** &mdash;*Apr 2025 - Present*
 - Evaluating and enhancing the code generation abilities of LLMs across diverse tasks.
@@ -39,7 +38,7 @@ Supervisor: Dr. Mohammad Rashedur Rahman
 
 <br>
 
-### North South University, Bangladesh
+#### North South University, Bangladesh
 
 **Research Assistant** &mdash; *Dec 2023 - Sept 2024*
 
@@ -54,7 +53,7 @@ This work led to the publication of the paper "Multi-Class Brain Tumor Classific
 
 ## Organizational Roles
 
-### North South University ACM Student Chapter
+#### North South University ACM Student Chapter
 
 **Treasurer** &mdash; *2022*
 
@@ -67,13 +66,13 @@ Prior to this role, I managed the Corporate and the Publications team within the
 
 <br>
 
-### Institute of Electrical and Electronics Engineers (IEEE)
+#### Institute of Electrical and Electronics Engineers (IEEE)
 
 **Student Member**
 
 <br>
 
-## Association for Computing Machinery (ACM)
+#### Association for Computing Machinery (ACM)
 
 **Student Member**
 
