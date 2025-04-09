@@ -23,10 +23,16 @@ Supervisor: Dr. Mohammad Rashedur Rahman
 
 **Invisible Technologies Inc., USA** 
 
-Advanced Artificial Intelligence Trainer &mdash; *Feb 2025 - Present* 
+Coding Artificial Intelligence Trainer &mdash;*Apr 2025 - Present*
+- Evaluating and enhancing the code generation abilities of LLMs across diverse tasks.
+- Benchmarking LLM performance with a focus on accuracy, coherence, and task execution.
+- Analyzing model behavior to identify strengths, limitations, and behavioral patterns.
+- Contributing to ongoing research efforts to improve the robustness and reliability of LLMs.
+
+Advanced Artificial Intelligence Trainer &mdash; *Feb 2025 - Mar 2025* 
 
 Intermediate Artificial Intelligence Trainer &mdash; *Apr 2024 - Jan 2025*
-- Teaching LLMs to better understand specific nuances, contexts, or specialized domains.
+- Teaching LLMs to better understand specific nuances, or contexts in video and audio data.
 - Identifying inconsistencies, biases, or errors in AI outputs and helping refine model behavior. 
 - Continuously optimize model training workflows for greater efficiency and accuracy.
 - Maintain rigorous quality standards by iterating on feedback to improve model performance.

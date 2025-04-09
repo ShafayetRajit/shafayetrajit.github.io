@@ -6,7 +6,7 @@ tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature: 
 ---
-I graduated in Computer Science and Engineering from North South University, Bangladesh, and currently work as an Advanced Artificial Intelligence Trainer at <a href="https://www.invisible.co/">Invisible Technologies Inc.</a> In my role, I work on teaching Large Language Models (LLM) to focus on the minute details and nuances present in video and audio. This not only advances the proficiency of foundation models but also plays a crucial role in shaping the trajectory of visual media for the future.
+I graduated in Computer Science and Engineering from North South University, Bangladesh, and currently work as a Coding Artificial Intelligence Trainer at <a href="https://www.invisible.co/">Invisible Technologies Inc.</a> In my role, I work on improving how Large Language Models (LLM) understand and generate code-based instructions. This includes evaluating their performance on diverse tasks, identifying strengths and weaknesses, and contributing to benchmarks focused on accuracy, coherence, and execution.
 
 <br />
 
@@ -30,7 +30,9 @@ Research Assistant (under <a href="https://ece.northsouth.edu/people/rashedur-ra
 
 **Invisible Technologies Inc., USA**
 
-Advanced Artificial Intelligence Trainer &mdash;*Feb 2025 - Present*
+Coding Artificial Intelligence Trainer &mdash;*Apr 2025 - Present*
+
+Advanced Artificial Intelligence Trainer &mdash;*Feb 2025 - Mar 2025*
 
 Intermediate Artificial Intelligence Trainer &mdash;*Apr 2024 - Jan 2025*
 
