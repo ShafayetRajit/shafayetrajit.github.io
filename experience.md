@@ -3,23 +3,13 @@ layout: novipage
 permalink: /experience/
 title: Experience
 tags: 
-modified: 27-06-2019
+modified: 27-03-2025
 comments: false
 sidebar:
   nav: sidebar-experience
 ---
 
 ## Professional Journey
-
-**North South University, Bangladesh**
-
-Research Assistant &mdash; *Apr 2025 - Present*
-
-Supervisor: Dr. Mohammad Rashedur Rahman
-- Optimizing advanced computational methods for resource-constrained devices.
-- Deploying and ensuring efficient performance of AI models in low-end hardware environments.
-
-<br>
 
 **Invisible Technologies Inc., USA** 
 
@@ -40,6 +30,12 @@ Intermediate Artificial Intelligence Trainer &mdash; *Apr 2024 - Jan 2025*
 <br>
 
 **North South University, Bangladesh**
+
+Research Assistant &mdash; *Apr 2025 - Present*
+
+Supervisor: Dr. Mohammad Rashedur Rahman
+- Optimizing advanced computational methods for resource-constrained devices.
+- Deploying and ensuring efficient performance of AI models in low-end hardware environments.
 
 Research Assistant &mdash; *Dec 2023 - Sept 2024*
 
