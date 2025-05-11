@@ -58,7 +58,7 @@ BS, Computer Science and Engineering
 
 + **S. Rajit**, Z. F. Ananna, M. M. Ehsan, N. N. Punom and S. Siddique, **Multi-Class Brain Tumor Classification of MRI Image Using Federated Learning with Blockchain**, *IEEE Region 10 Symposium (TENSYMP)*, 2024 <a href="https://ieeexplore.ieee.org/document/10752160" target="_blank">[Paper]</a>
 
-+ **S. Rajit**, M. A. A. Sayed, **Federated Learning Based Histopathological Image Classification for Oral Squamous Cell Carcinoma**, *8th IEEE-EMBS Conference on Biomedical Engineering and Sciences (IECBES)*, 2024 <a href="files/IECBES 2024 Certificate of Appreciation.pdf" target="_blank">[Certificate]<a>[Presented; Proceedings Pending]
++ **S. Rajit**, M. A. A. Sayed, **Federated Learning Based Histopathological Image Classification for Oral Squamous Cell Carcinoma**, *8th IEEE-EMBS Conference on Biomedical Engineering and Sciences (IECBES)*, 2024 <a href="files/IECBES 2024 Certificate of Appreciation.pdf" target="_blank">[Certificate]</a> [Presented; Proceedings Pending]
 
 
 
