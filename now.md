@@ -20,39 +20,41 @@ sidebar:
 
 ### Work
 
-Professionally working as a human evaluator and refiner of AI-generated code. I also hold the position of a Research Assistant at my university. Of the two, I'm more proud of the latter one.
+Professionally working as a human evaluator and refiner of AI-generated code as well as text. I also hold the position of a Research Assistant at my university. Of the two, I'm more proud of the latter one.
 
 ---
 
 ### Books
 
-Currently reading: Animal Farm (Yes, for the first time. Don't judge me.)
+Currently reading: Wool (The books behind the TV series 'Silo'.)
 
-In queue: Wool (The books behind the TV series 'Silo'.)
+<!-- In queue:  -->
+
+Visit [Storygraph](https://app.thestorygraph.com/profile/shafayet_rajit) for more.
 
 ---
 
 ### TV Series 
 
-Currently watching: A Gentleman in Moscow (so far, so good). 
+Currently watching: Love, Death & Robots. 
 
-In queue: Dragon Ball Daima (anime), Senna. 
+In queue: Mobster, Foundation S2. 
 
 ---
 
 ### Movies
 
-Just watched: Mickey 17 (good stuff)
+Just watched: Havoc (not so good)
 
-In queue: Anora, Enemy, Novocaine, and more. 
+In queue: Many... 
+
+Using [Letterboxd](https://letterboxd.com/shafayet_rajit/) to track and review movies. 
 
 ---
 
 ### Games
 
 Playing Overwatch 2 nearly every night. 
-
-As for offline games, really enjoying the Commandos: Origin. This one takes me back to chilhood.
 
 ---
 
@@ -70,7 +72,7 @@ Trying to work out more. Excited for my first step into the world of running (7.
 
 Just got my first citation, pretty stoked about that. Wrecking my brain about future research ideas. 
 
-Have been thinking about starting a blog. Soon (maybe). 
+Started a blog, https://synapse-story.netlify.app/. 
 
 Really enjoying building frontend web stuff lately. Will create a `/stuff` page and dump them there. 
 

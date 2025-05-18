@@ -11,7 +11,7 @@ sidebar:
 
 ### Other Projects
 
-[**Molecular-fingerprint based QSAR Analysis to predict SARS-CoV-2 3CLpro inhibitors using enumerated SMILES**]({{ site.baseurl }}/synapse-story/3clpro-qsar/)
+[**Molecular-fingerprint based QSAR Analysis to predict SARS-CoV-2 3CLpro inhibitors using enumerated SMILES**](https://synapse-story.netlify.app/3clpro-qsar/)
 
 *CSE498R - Directed Research Project*
 
@@ -19,7 +19,7 @@ Supervisor: Dr. Tanzilur Rahman
 
 <br />
 
-[**Post-Covid Psychological Distress Detection Using Machine Learning Techniques**]({{ site.baseurl }}/synapse-story/covid-ml-299/)
+[**Post-Covid Psychological Distress Detection Using Machine Learning Techniques**](https://synapse-story.netlify.app/covid-ml-299/)
 
 *CSE299 - Junior Design Research Project*
 
@@ -27,7 +27,7 @@ Supervisor: Dr. Shahnewaz Siddique
 
 <br />
 
-[**Early Psychosis Detection using EEG-Derived Features**]({{ site.baseurl }}/synapse-story/eeg-psychosis/)
+[**Early Psychosis Detection using EEG-Derived Features**](https://synapse-story.netlify.app/eeg-psychosis/)
 
 *CSE496 - Introduction to Biomedical Engineering*
 
@@ -36,7 +36,7 @@ Supervisor: Dr. Tanzilur Rahman
 <br />
 
 
-[**Multi-label Classification of Bengali Hate Comments on Social Media**]({{ site.baseurl }}/synapse-story/bengali-hate-speech/)
+[**Multi-label Classification of Bengali Hate Comments on Social Media**](https://synapse-story.netlify.app/bengali-hate-speech/)
 
 *CSE465 - Pattern Recognition and Neural Network Project*
 
@@ -44,7 +44,7 @@ Supervisor: Dr. Mohammad Ashrafuzzaman Khan
 
 <br />
 
-[**Dialogue Summarization using Gemma 2B**]({{ site.baseurl }}/synapse-story/dialoug-sum/)
+[**Dialogue Summarization using Gemma 2B**](https://synapse-story.netlify.app/dialouge-sum/)
 
 
 *Pet project*
