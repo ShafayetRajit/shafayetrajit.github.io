@@ -54,11 +54,11 @@ BS, Computer Science and Engineering
 
 ## Publications 
 
-+ M. Y. Hossain, M. M. H. Rakib, **S. Rajit**, I. R. Nijhum, R. M. Rahman, **Adaptive and automatic aerial image restoration pipeline leveraging pre-trained image restorer with lightweight Fully Convolutional Network**, *Expert Systems with Applications*, 2025 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417424020773">[Paper]</a>
++ M. Y. Hossain, M. M. H. Rakib, **S. Rajit**, I. R. Nijhum, R. M. Rahman, **Adaptive and automatic aerial image restoration pipeline leveraging pre-trained image restorer with lightweight Fully Convolutional Network**, *Expert Systems with Applications*, 2025 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417424020773" target="_blank">[Paper]</a>
 
-+  **S. Rajit**, Z. F. Ananna, M. M. Ehsan, N. N. Punom and S. Siddique, **Multi-Class Brain Tumor Classification of MRI Image Using Federated Learning with Blockchain**, *IEEE Region 10 Symposium (TENSYMP)*, 2024 <a href="https://ieeexplore.ieee.org/document/10752160">[Paper]</a>
++ **S. Rajit**, Z. F. Ananna, M. M. Ehsan, N. N. Punom and S. Siddique, **Multi-Class Brain Tumor Classification of MRI Image Using Federated Learning with Blockchain**, *IEEE Region 10 Symposium (TENSYMP)*, 2024 <a href="https://ieeexplore.ieee.org/document/10752160" target="_blank">[Paper]</a>
 
-+ **S. Rajit**, M. A. A. Sayed, **Federated Learning Based Histopathological Image Classification for Oral Squamous Cell Carcinoma**, *8th IEEE-EMBS Conference on Biomedical Engineering and Sciences (IECBES)*, 2024 [Presented; Proceedings Pending]
++ **S. Rajit**, M. A. A. Sayed, **Federated Learning Based Histopathological Image Classification for Oral Squamous Cell Carcinoma**, *8th IEEE-EMBS Conference on Biomedical Engineering and Sciences (IECBES)*, 2024 <a href="files/IECBES 2024 Certificate of Appreciation.pdf" target="_blank">[Certificate]</a> [Presented; Proceedings Pending]
 
 
 
