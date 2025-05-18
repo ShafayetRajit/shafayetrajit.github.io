@@ -24,7 +24,7 @@ sidebar:
 &nbsp;&nbsp;&nbsp;&nbsp;This paper proposes a Federated Learning framework for diagnosing brain tumors while preserving patient data privacy through secure model parameter sharing facilitated by Blockchain technology. Building upon my undergraduate dissertation, this research extends the previous work by using an efficient and accelerated weighted average aggregation method, the framework achieved impressive accuracy in classifying four tumor types, showcasing its efficiency and potential for collaborative medical diagnosis.
 
 
-+ **S. Rajit**, M. A. A. Sayed, **Federated Learning Based Histopathological Image Classification for Oral Squamous Cell Carcinoma**, *8th IEEE-EMBS Conference on Biomedical Engineering and Sciences (IECBES)*, 2024 [Presented; Proceedings Pending]
++ **S. Rajit**, M. A. A. Sayed, **Federated Learning Based Histopathological Image Classification for Oral Squamous Cell Carcinoma**, *8th IEEE-EMBS Conference on Biomedical Engineering and Sciences (IECBES)*, 2024 <a href="files/IECBES 2024 Certificate of Appreciation.pdf" target="_blank">[Certificate]</a> [Presented; Proceedings Pending]
 
 &nbsp;&nbsp;&nbsp;&nbsp;This study introduces a Federated Learning framework for detecting Oral Squamous Cell Carcinoma from histopathological images, enabling collaborative model training while preserving patient data privacy. Utilizing both IID and non-IID datasets along with the Federated Averaging algorithm for weighted parameter distribution, the framework demonstrates its effectiveness in enhancing diagnostic reliability and adapting to diverse data distributions.
 

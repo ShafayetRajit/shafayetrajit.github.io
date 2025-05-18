@@ -72,7 +72,7 @@ Trying to work out more. Excited for my first step into the world of running (7.
 
 Just got my first citation, pretty stoked about that. Wrecking my brain about future research ideas. 
 
-Started a blog, https://synapse-story.netlify.app/. 
+Started a [blog](https://synapse-story.netlify.app/). 
 
 Really enjoying building frontend web stuff lately. Will create a `/stuff` page and dump them there. 
 
