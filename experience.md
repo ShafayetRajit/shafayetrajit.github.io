@@ -13,7 +13,12 @@ sidebar:
 
 **Invisible Technologies Inc., USA** 
 
-Coding Artificial Intelligence Trainer &mdash;*Apr 2025 - Present*
+Quality Analyst &mdash; *Sep 2025 - Present*
+- Evaluate completed tasks to ensure they meet campaign standards and align with the most up-to-date instructions.
+- Ensure outputs follow the latest processes, protocols, and updated instructions.
+- Track quality trends and highlight opportunities for process optimization.
+
+Coding Artificial Intelligence Trainer &mdash; *Apr 2025 - Sep 2025*
 - Evaluating and enhancing the code generation abilities of LLMs across diverse tasks.
 - Benchmarking LLM performance with a focus on accuracy, coherence, and task execution.
 - Analyzing model behavior to identify strengths, limitations, and behavioral patterns.

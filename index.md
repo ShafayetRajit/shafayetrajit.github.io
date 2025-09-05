@@ -24,19 +24,21 @@ In parallel, I am working under the supervision of <a href="https://ece.northsou
 
 **Invisible Technologies Inc., USA**
 
-Coding Artificial Intelligence Trainer &mdash;*Apr 2025 - Present*
+Quality Analyst &mdash; *Sep 2025 - Present*
 
-Advanced Artificial Intelligence Trainer &mdash;*Feb 2025 - Mar 2025*
+Coding Artificial Intelligence Trainer &mdash; *Apr 2025 - Sep 2025*
 
-Intermediate Artificial Intelligence Trainer &mdash;*Apr 2024 - Jan 2025*
+Advanced Artificial Intelligence Trainer &mdash; *Feb 2025 - Mar 2025*
+
+Intermediate Artificial Intelligence Trainer &mdash; *Apr 2024 - Jan 2025*
 
 <br />
 
 **North South University, Bangladesh**
 
-Research Assistant (under <a href="https://ece.northsouth.edu/people/rashedur-rahman/">Dr. Mohammad Rashedur Rahman</a>) &mdash;*Apr 2025 - Present*
+Research Assistant (under <a href="https://ece.northsouth.edu/people/rashedur-rahman/">Dr. Mohammad Rashedur Rahman</a>) &mdash; *Apr 2025 - Present*
 
-Research Assistant (under <a href="https://ece.northsouth.edu/people/dr-shahnewaz-siddique/">Dr. Shahnewaz Siddique</a>) &mdash;*Dec 2023 - Sept 2024*
+Research Assistant (under <a href="https://ece.northsouth.edu/people/dr-shahnewaz-siddique/">Dr. Shahnewaz Siddique</a>) &mdash; *Dec 2023 - Sept 2024*
 
 <hr>
 
