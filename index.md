@@ -6,7 +6,7 @@ tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature: 
 ---
-I graduated in Computer Science and Engineering from North South University, Bangladesh, and currently work as a Coding Artificial Intelligence Trainer at <a href="https://www.invisible.co/">Invisible Technologies Inc.</a> In my role, I work on improving how Large Language Models (LLM) understand and generate code-based instructions. This includes evaluating their performance on diverse tasks, identifying strengths and weaknesses, and contributing to benchmarks focused on accuracy, coherence, and execution.
+I graduated in Computer Science and Engineering from North South University, Bangladesh, and currently work as a Quality Analyst at <a href="https://www.invisible.co/">Invisible Technologies Inc.</a> In my role, I evaluate tasks completed by trainers to ensure they meet campaign standards and align with the most up-to-date instructions. This includes evaluating their performance on diverse tasks, identifying strengths and weaknesses, and contributing to benchmarks focused on accuracy, coherence, and execution.
 
 <br />
 
@@ -24,9 +24,9 @@ In parallel, I am working under the supervision of <a href="https://ece.northsou
 
 **Invisible Technologies Inc., USA**
 
-Quality Analyst &mdash; *Sep 2025 - Present*
+Quality Analyst &mdash; *Sept 2025 - Present*
 
-Coding Artificial Intelligence Trainer &mdash; *Apr 2025 - Sep 2025*
+Coding Artificial Intelligence Trainer &mdash; *Apr 2025 - Sept 2025*
 
 Advanced Artificial Intelligence Trainer &mdash; *Feb 2025 - Mar 2025*
 
