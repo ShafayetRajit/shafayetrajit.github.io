@@ -51,9 +51,15 @@ Supervisor: Dr. Mohammad Ashrafuzzaman Khan
 
 <hr>
 
+### Spotlight
+
+[**Research Paper 101**](https://medium.com/@shafayet.rajit.101/research-paper-101-6f935922c893) 
+
+<hr>
+
 ### Hour of Code! 
 
-<img src="{{ site.url }}/images/hoc.jpeg">
+<img src="{{ site.url }}/images/hoc.jpeg" style="border-radius: 15px;">
 
 <br>
 
@@ -65,4 +71,9 @@ This image captures a moment from Hour of Code 2022, where I had the joy of teac
 
 ### Interests 
 
-I unwind with a good book or immerse myself in fantastical worlds through movies, TV series, and open-world games. My taste in movies is eclectic, and I enjoy everything from gripping sci-fi to captivating historical drama. Whenever possible, I hit the road to explore new places and cultures. I occasionally write on [Medium](https://medium.com/@shafayet.rajit.101) about various concepts. Feel free to check out my [Letterboxd](https://letterboxd.com/shafayet_rajit/) and [Storygraph](https://app.thestorygraph.com/profile/shafayet_rajit) profile. Take a stroll through the world captured by [my lens](https://shafayetrajit.github.io/gallery/).
+I unwind with a good book or immerse myself in fantastical worlds through movies, TV series, and open-world games. My taste in movies is eclectic, and I enjoy everything from gripping sci-fi to captivating historical drama. Whenever possible, I hit the road to explore new places and cultures. I occasionally write on [Medium](https://medium.com/@shafayet.rajit.101) about various concepts. Feel free to check out my [Letterboxd](https://letterboxd.com/shafayet_rajit/) and [Storygraph](https://app.thestorygraph.com/profile/shafayet_rajit) profile. 
+
+<hr>
+
+<p style="text-align:center;"><em>What we do in life, echoes in eternity.</em></p>
+

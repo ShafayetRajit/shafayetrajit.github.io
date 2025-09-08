@@ -62,7 +62,7 @@ BS, Computer Science and Engineering
 
 + **S. Rajit**, M. A. A. Sayed, **Federated Learning Based Histopathological Image Classification for Oral Squamous Cell Carcinoma**, *8th IEEE-EMBS Conference on Biomedical Engineering and Sciences (IECBES)*, 2024 [<a href="https://doi.org/10.1109/IECBES61011.2024.10991111" target="_blank">Paper</a>] 
 
-
++ **S. Rajit**, T. Rahman, **Classification of Potent Dengue Inhibitors using 2D Molecular Images with Structure-based augmentation and Grad-CAM Visualization** *[Under Review]*
 
 
 
