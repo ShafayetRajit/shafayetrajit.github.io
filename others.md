@@ -59,7 +59,7 @@ Supervisor: Dr. Mohammad Ashrafuzzaman Khan
 
 ### Hour of Code! 
 
-<img src="{{ site.url }}/images/hoc.jpeg" style="border-radius: 8px;">
+<img src="{{ site.url }}/images/hoc.jpeg" style="border-radius: 5px;">
 
 <br>
 
