@@ -40,6 +40,8 @@ Research Assistant (under <a href="https://ece.northsouth.edu/people/rashedur-ra
 
 Research Assistant (under <a href="https://ece.northsouth.edu/people/dr-shahnewaz-siddique/">Dr. Shahnewaz Siddique</a>) &mdash; *Dec 2023 - Sept 2024*
 
+_See the <a href="https://shafayetrajit.github.io/experience/">complete experience overview</a> for detailed responsibilities._ 
+
 <hr>
 
 ## Education
@@ -63,6 +65,10 @@ BS, Computer Science and Engineering
 + **S. Rajit**, M. A. A. Sayed, **Federated Learning Based Histopathological Image Classification for Oral Squamous Cell Carcinoma**, *8th IEEE-EMBS Conference on Biomedical Engineering and Sciences (IECBES)*, 2024 [<a href="https://doi.org/10.1109/IECBES61011.2024.10991111" target="_blank">Paper</a>] 
 
 + **S. Rajit**, T. Rahman, **Classification of Potent Dengue Inhibitors using 2D Molecular Images with Structure-based augmentation and Grad-CAM Visualization** *[Under Review]*
+
+## Peer Review Activities  
+
++ Expert Systems with Applications [<a href="./files/Certificate_ESWA_Recognised.pdf" target="_blank">Certificate</a>]
 
 
 

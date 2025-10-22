@@ -24,11 +24,7 @@ owner:
 
 # Links to include in top navigation
 # For external links add external: true
-links:
-  - title: Publications
-    url: /publications/   
-  - title: Experience
-    url: /experience/      
+links:      
   - title: Others
     url: /others/
   - title: Now 
