@@ -67,6 +67,7 @@ and compliance with organizational guidelines.
 Prior to this role, I managed the Corporate and the Publications team within the chapter. Additionally, I served as a mentor, assisting members in grasping course-related topics. 
 
 [<a href="./files/ACM_certificate_Shafayet.pdf" target="_blank">Certificate</a>]
+
 <br>
 
 **Institute of Electrical and Electronics Engineers (IEEE)**
