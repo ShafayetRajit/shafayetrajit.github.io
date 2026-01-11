@@ -66,7 +66,7 @@ and compliance with organizational guidelines.
 
 Prior to this role, I managed the Corporate and the Publications team within the chapter. Additionally, I served as a mentor, assisting members in grasping course-related topics. 
 
-[<a href="https://shafayetrajit.github.io/experience/files/ACM_certificate_Shafayet.pdf" target="_blank">Certificate</a>]
+[<a href="https://shafayetrajit.github.io/files/ACM_certificate_Shafayet.pdf" target="_blank">Certificate</a>]
 
 <br>
 
