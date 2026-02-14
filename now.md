@@ -14,7 +14,7 @@ sidebar:
 
 
 
-<p style="text-align:center; color:gray">Last updated: Febrary 13, 2026.</p>
+<p style="text-align:center; color:gray">Last updated: February 13, 2026.</p>
 
 ---
 
