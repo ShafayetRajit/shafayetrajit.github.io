@@ -14,7 +14,7 @@ sidebar:
 
 
 
-<p style="text-align:center; color:gray">Last updated: May 7, 2025.</p>
+<p style="text-align:center; color:gray">Last updated: Febrary 13, 2026.</p>
 
 ---
 
@@ -26,7 +26,7 @@ Professionally working as a human evaluator and refiner of AI-generated code as 
 
 ### Books
 
-Currently reading: Wool (The books behind the TV series 'Silo'.)
+Currently reading: Inferno
 
 <!-- In queue:  -->
 
@@ -36,15 +36,15 @@ Visit [Storygraph](https://app.thestorygraph.com/profile/shafayet_rajit) for mor
 
 ### TV Series 
 
-Currently watching: Love, Death & Robots. 
+Last watched: Ponies. 
 
-In queue: Mobster, Foundation S2. 
+In queue: Wonderman. 
 
 ---
 
 ### Movies
 
-Just watched: Havoc (not so good)
+Just watched: Rental Family
 
 In queue: Many... 
 
@@ -54,13 +54,13 @@ Using [Letterboxd](https://letterboxd.com/shafayet_rajit/) to track and review m
 
 ### Games
 
-Playing Overwatch 2 nearly every night. 
+Playing Rematch nearly every night. Sometimes, overwatch. 
 
 ---
 
 ### Sports
 
-Obsessively following F1. A proud member of the Papaya Army.
+Obsessively following F1. A proud member of the Papaya Army. Though, I do think Mercedes has a better chance this year. 
 
 ---
 
@@ -68,13 +68,11 @@ Obsessively following F1. A proud member of the Papaya Army.
 
 Moving back and forth between two districts that have a ~five-hour journey in the middle. 
 
-Trying to work out more. Excited for my first step into the world of running (7.5K in mid-May).
+Trying to work out more. 
 
-Just got my first citation, pretty stoked about that. Wrecking my brain about future research ideas. 
+Preparing for graduate studies. Already applied to several places. Let's see what happens.  
 
 Started a <a href="https://synapse-story.netlify.app" target="_blank">blog</a>. 
-
-Really enjoying building frontend web stuff lately. Will create a `/stuff` page and dump them there. 
 
 Continuously tweaking this site.
 

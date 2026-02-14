@@ -51,12 +51,6 @@ Supervisor: Dr. Mohammad Ashrafuzzaman Khan
 
 <hr>
 
-### Spotlight
-
-[**Research Paper 101**](https://medium.com/@shafayet.rajit.101/research-paper-101-6f935922c893) 
-
-<hr>
-
 ### Hour of Code! 
 
 <img src="{{ site.url }}/images/hoc.jpeg" style="border-radius: 5px;">

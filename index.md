@@ -78,7 +78,11 @@ BS, Computer Science and Engineering
 
 + Expert Systems with Applications [<a href="./files/Certificate_ESWA_Recognised.pdf" target="_blank">Certificate</a>]
 
+<hr>
 
+### Blog Highlight 
+
+[**Research Paper 101**](https://medium.com/@shafayet.rajit.101/research-paper-101-6f935922c893) 
 
 
 
