@@ -68,9 +68,9 @@ BS, Computer Science and Engineering
 
 + **S. Rajit**, T. Rahman, **Classification of Potent Dengue Inhibitors using 2D Molecular Images with Structure-based augmentation and Grad-CAM Visualization** *[Under Review]*
 
-+ M. Y. Hossain, **S. Rajit**, M. M. H. Rakib, M. M. K. Peyal, S. Dev, **Reformulating Low-Light Image Enhancement as a Multi-Exposure Fusion Problem**. *[Under Review]*
++ M. Y. Hossain, **S. Rajit**, M. M. H. Rakib, S. Dev, **Reformulating Low-Light Image Enhancement as a Multi-Exposure Fusion Problem**. *[Under Review]*
 
-+ M. M. H. Rakib, M. Y. Hossain, **S. Rajit**, I. R. Nijhum, M. M. K. Peyal, R. M. Rahman, **SALAM: Saliency-Aware Attention Module**. *[Under Review]*
++ M. M. H. Rakib, **S. Rajit**, M. Y. Hossain, I. R. Nijhum, R. M. Rahman, **SALAM: Saliency-Aware Attention Module**. *[Under Review]*
 
 <hr>
 
