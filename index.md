@@ -70,7 +70,7 @@ BS, Computer Science and Engineering
 
 + M. Y. Hossain, **S. Rajit**, M. M. H. Rakib, S. Dev, **Reformulating Low-Light Image Enhancement as a Multi-Exposure Fusion Problem**. *[Under Review]*
 
-+ M. M. H. Rakib, **S. Rajit**, M. Y. Hossain, I. R. Nijhum, R. M. Rahman, **SALAM: Saliency-Aware Attention Module**. *[Under Review]*
++ M. M. H. Rakib, **S. Rajit**, M. Y. Hossain, I. R. Nijhum, R. M. Rahman, **A Lightweight Biologically-Inspired Attention Module Through Center–Surround and Edge-Aware Priors**. *[Under Review]*
 
 <hr>
 
