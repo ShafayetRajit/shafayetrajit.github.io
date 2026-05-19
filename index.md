@@ -6,15 +6,13 @@ tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature: 
 ---
-I graduated in Computer Science and Engineering from North South University, Bangladesh, and currently work as a Quality Analyst at <a href="https://www.invisible.co/">Invisible Technologies Inc.</a> In my role, I evaluate tasks completed by trainers to ensure they meet campaign standards and align with the most up-to-date instructions. This includes evaluating their performance on diverse tasks, identifying strengths and weaknesses, and contributing to benchmarks focused on accuracy, coherence, and execution.
+I graduated in Computer Science and Engineering from North South University, Bangladesh, and currently work under the supervision of <a href="https://ece.northsouth.edu/people/rashedur-rahman/">Dr. Mohammad Rashedur Rahman</a> on developing efficient techniques tailored for resource-constrained devices. This work ensures advanced computational methods perform reliably on limited hardware resources, making them viable for real-world deployment.
+
+In parallel, I am working as a Quality Analyst at <a href="https://www.invisible.co/">Invisible Technologies Inc.</a> In my role, I evaluate tasks completed by trainers to ensure they meet campaign standards and align with the most up-to-date instructions. This includes evaluating their performance on diverse tasks, identifying strengths and weaknesses, and contributing to benchmarks focused on accuracy, coherence, and execution.
 
 <br />
 
-My research interests center on computer vision and its wide-ranging applications, with a focus on developing innovative solutions for real-world challenges. Currently, I'm working on 2D image-based drug discovery method for Dengue treatment, using visual representations of molecular structures to accelerate the drug discovery process. Under the guidance of <a href="https://sites.google.com/site/tanzilctg/">Dr. Tanzilur Rahman</a>, this research aims to contribute to the global fight against Dengue.
-
-<br />
-
-In parallel, I am working under the supervision of <a href="https://ece.northsouth.edu/people/rashedur-rahman/">Dr. Mohammad Rashedur Rahman</a> on developing efficient techniques tailored for resource-constrained devices. This project focuses on optimizing advanced computational methods to ensure reliable performance within limited hardware environments, making them more accessible for practical, real-world use.
+ 
 
 <!-- <p style="background-image: linear-gradient(to left, indigo, #6CB4EE); -webkit-background-clip: text; color: transparent;"><em>I am actively exploring PhD opportunities for Fall 2025 admission. If you know of any relevant openings, I would be grateful for your insights. Thank you!</em></p> -->
 
