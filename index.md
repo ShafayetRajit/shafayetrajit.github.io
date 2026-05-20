@@ -7,6 +7,7 @@ image:
   feature: 
 ---
 I graduated in Computer Science and Engineering from North South University, Bangladesh, and currently work under the supervision of <a href="https://ece.northsouth.edu/people/rashedur-rahman/">Dr. Mohammad Rashedur Rahman</a> on developing efficient techniques tailored for resource-constrained devices. This work ensures advanced computational methods perform reliably on limited hardware resources, making them viable for real-world deployment.
+
 <br />
 
 In parallel, I am working as a Quality Analyst at <a href="https://www.invisible.co/">Invisible Technologies Inc.</a> In my role, I evaluate tasks completed by trainers to ensure they meet campaign standards and align with the most up-to-date instructions. This includes evaluating their performance on diverse tasks, identifying strengths and weaknesses, and contributing to benchmarks focused on accuracy, coherence, and execution.
