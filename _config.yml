@@ -1,61 +1,73 @@
-title:            Shafayet Rajit
-description:      Welcome to my site.
-# Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              https://shafayetrajit.github.io
-#http://localhost:5000
-#https://jponttuset.github.io
-disqus_shortname: Shafayet
+### your site title here
 
-# Owner/author information
-owner:
-  name:           Shafayet Rajit
-  avatar:         portrait.jpeg
-  bio:            
-  email:          shafayet.rajit.101@gmail.com
-  # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  #twitter: 
-  linkedin: shafayetrajit
-  google_scholar: u0oB9uQAAAAJ
-  orcid: 0009-0007-0160-231X
-  github: ShafayetRajit
-  researchgate: Shafayet-Rajit
+title: Shafayet Rajit
+description: 
 
-# Do the favicons changes in the file _includes/_author-bio.html
+baseurl: "" #name of GitHub repository
+url: "https://shafayetrajit.github.io" #custom url to be used instead of GitHub repository
+email: #
 
-# Links to include in top navigation
-# For external links add external: true
-links:      
-  - title: Others
-    url: /others/
-  - title: Now 
-    url: /now/
-      
+# Pagination
+paginate: 4
+permalink: /blog/:year/:title/
+paginate_path: /blog/page:num/
 
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Asia/Dhaka
-future:      true
-#pygments:    true
+# Social media links in footer
+linkedin: "http://linkedin.com/in/shafayetrajit"
+#stackoverflow: "#"
+github: "http://github.com/ShafayetRajit"
+researchgate: "https://www.researchgate.net/profile/Shafayet-Rajit"
+orcid: "https://orcid.org/0009-0007-0160-231X"
+#quora: "#"
+#instagram: "#"
+#facebook: "#"
+#bluesky: "#"
+#substack: "#"
+
+# Markdown
 highlighter: rouge
-markdown:    kramdown
-kramdown:
-  extensions: ["strikethrough"]
-  
-# https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title/
+markdown: kramdown
 
-kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  enable_coderay: false
+# Tracker
+analytics:
 
-  coderay:
-    coderay_line_numbers:
-    coderay_line_numbers_start: 1
-    coderay_tab_width: 4
-    coderay_bold_every: 10
-    coderay_css: class
+# optimization -> compress.html
+compress_html:
+  clippings: [html,div, p, ul, td, h1, h2, h3, h4,link, meta, footer, nav, img, header, hr, br, head, style, li, ul, ol, time, main, script, title]
+  comments: ["<!-- ", " -->"]
+  endings: [all]
+  ignore:
+    envs: [local]
+  blanklines: false
+  profile: false
+  startings: []
 
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+#collection
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
+    order:
+      - shortProject.md
+      - longerProjectTitle.md
+      - redirect.md
+      - project4.md
+      - project5.md
+      - project6.md
+
+sass:
+  sass_dir: /assets/css/_sass
+  style: compressed
+
+include:
+  - _pages
+
+exclude:
+  - README.md
+  - LICENSE.md
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-email-protect
+  - jekyll-target-blank

@@ -1,0 +1,127 @@
+---
+# layout: compress
+---
+<!DOCTYPE html>
+<html>
+
+<head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-T8SRGPXFM1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-T8SRGPXFM1');
+  </script>
+  
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1" name="viewport">
+  <link rel="icon" href="{{site.url}}/assets/images/polygon.png" type="image/x-icon" />
+  <link rel="stylesheet" href="{{site.url}}/assets/css/main.css">
+
+  {% unless layout.hide_header_nav or page.hide_header_nav %}
+<header>
+  <div class="header-row">
+    <h1 class="post-headline">Shafayet Rajit</h1>
+    
+    <div class="navbar links scroll">
+      {% if page.url != "/" and page.url != "/index.html" %}
+        <a href="{{ '/' | relative_url }}" class="home-button">Home</a>
+      {% endif %}
+      <!-- Theme toggle button if you are using it -->
+      <button id="theme-toggle" class="theme-toggle-btn" aria-label="Toggle theme">☀︎</button>
+    </div>
+  </div>
+  <h3 class="post-description"></h3>
+</header>
+  {% endunless %}
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Lora:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet">
+  
+  {% seo %}
+
+  {% include favicon.html %}
+
+  {% include mathjax.html %}
+
+  <!-- Load fontawesome here for faster loadtimes: https://stackoverflow.com/a/35880730/9523246 -->
+  <script type="text/javascript">
+    (function () {
+      var css = document.createElement('link');
+      css.href = 'https://use.fontawesome.com/releases/v6.7.2/css/all.css';
+      css.rel = 'stylesheet';
+      css.type = 'text/css';
+      //this class is added to the body when fontawesome is loaded
+      //this is done to make the fontawesome icons appear at the same time as the custome CSS-only logos
+      var showIcons = function () {
+        document.body.classList.add('fontawesome-loaded');
+      };
+      css.onload = showIcons;
+      css.onerror = showIcons;
+      setTimeout(showIcons, 1500);
+      document.getElementsByTagName('head')[0].appendChild(css);
+    })();
+  </script>
+
+</head>
+
+<body>
+  <main>
+    <article>
+      {{ content }}
+    </article>
+  </main>
+
+  <footer>
+    <p class="copy">
+      <small> &copy; {{site.title}} {{ site.time | date: '%Y' }}.
+         Powered by Jekyll and
+        <a target="_blank" href="https://github.com/jitinnair1/gradfolio/" class="link-plain-footer">Gradfolio</a>. Published with GitHub Pages.
+        Last updated on {{ site.time | date_to_long_string }}.
+      </small>
+    </p>
+
+    <!-- {% unless layout.hide_social_footer or page.hide_social_footer %}
+    {% include social-footer.html %}
+    {% endunless %} -->
+
+  </footer>
+
+  {% include analytics.html %}
+
+<script>
+  const toggleBtn = document.getElementById('theme-toggle');
+  const currentTheme = localStorage.getItem('theme');
+
+  // Check saved theme or system preference on load
+  if (currentTheme === 'dark' || (!currentTheme && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+    document.documentElement.setAttribute('data-theme', 'dark');
+    if (toggleBtn) toggleBtn.textContent = '☀︎';
+  } else {
+    document.documentElement.setAttribute('data-theme', 'light');
+    if (toggleBtn) toggleBtn.textContent = '⏾';
+  }
+
+  // Toggle theme on button click
+  if (toggleBtn) {
+    toggleBtn.addEventListener('click', () => {
+      let theme = document.documentElement.getAttribute('data-theme');
+      if (theme === 'dark') {
+        document.documentElement.setAttribute('data-theme', 'light');
+        localStorage.setItem('theme', 'light');
+        toggleBtn.textContent = '⏾';
+      } else {
+        document.documentElement.setAttribute('data-theme', 'dark');
+        localStorage.setItem('theme', 'dark');
+        toggleBtn.textContent = '☀︎';
+      }
+    });
+  }
+</script>
+
+</body>
+
+</html>

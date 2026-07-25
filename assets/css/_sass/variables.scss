@@ -1,0 +1,33 @@
+$base-font-family: "Lora", serif;
+$base-font-size:   18px;
+$base-font-weight: 400;
+$small-font-size:  $base-font-size * 0.875;
+$base-line-height: 1.7;
+
+$spacing-unit:     10px;
+$light-gray:       gray;
+
+// Brand Colors
+$brand-color:      #0B6E4F; // Light mode green
+$brand-color-dark: #4ADE80; // Dark mode green
+
+// Dynamic CSS Variable for Brand Color
+:root {
+  --brand-color: #{$brand-color};
+}
+
+html[data-theme="dark"] {
+  --brand-color: #{$brand-color-dark};
+}
+
+// Color scheme for Light Mode
+$body-bg:          #FDFBF7;
+$background-color: #FDFBF7;
+$text-color:        #181717;
+$projectbox:       #c3e1c9;
+$projectbox-text:  #1e2126;
+
+// Color scheme for Dark Mode
+$body-bg-dark:     #23272d;
+$text-color-dark:  #E6EDF3;
+$projectbox-dark:  lighten(#98a0ac, 2%);
