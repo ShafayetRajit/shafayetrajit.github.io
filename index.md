@@ -40,9 +40,9 @@ I am pursuing a PhD in Veterinary Medicine under the supervision of [Dr Heather 
 
 - **S. Rajit**, T. Rahman, **"Classification of Potent Dengue Inhibitors Using 2-D Molecular Images With Structure-Based Augmentation and Grad-CAM Visualization,"**, *IEEE Access*, vol. 14, pp. 111329-111344, 2026. [[Paper]](https://doi.org/10.1109/ACCESS.2026.3713816)
 
-- M. Y. Hossain, M. M. H. Rakib, **S. Rajit**, I. R. Nijhum, R. M. Rahman, **Adaptive and automatic aerial image restoration pipeline leveraging pre-trained image restorer with lightweight Fully Convolutional Network**, *Expert Systems with Applications*, vol. 259, 2025 [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0957417424020773)
+- M. Y. Hossain, M. M. H. Rakib, **S. Rajit**, I. R. Nijhum, R. M. Rahman, **Adaptive and automatic aerial image restoration pipeline leveraging pre-trained image restorer with lightweight Fully Convolutional Network**, *Expert Systems with Applications*, vol. 259, 2025. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0957417424020773)
 
-- **S. Rajit**, Z. F. Ananna, M. M. Ehsan, N. N. Punom and S. Siddique, **Multi-Class Brain Tumor Classification of MRI Image Using Federated Learning with Blockchain**, *IEEE Region 10 Symposium (TENSYMP)*, 2024 [[Paper]](https://doi.org/10.1109/TENSYMP61132.2024.10752160)
+- **S. Rajit**, Z. F. Ananna, M. M. Ehsan, N. N. Punom and S. Siddique, **Multi-Class Brain Tumor Classification of MRI Image Using Federated Learning with Blockchain**, *IEEE Region 10 Symposium (TENSYMP)*, 2024. [[Paper]](https://doi.org/10.1109/TENSYMP61132.2024.10752160)
 
 *Visit <a href="{{site.url}}/publications/">publications</a> or <a href="http://scholar.google.com/citations?user=u0oB9uQAAAAJ">Google Scholar</a> for full list of papers.*
 
