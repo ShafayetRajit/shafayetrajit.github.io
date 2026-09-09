@@ -8,32 +8,31 @@ published: true
 ---
 <a href="mailto:shafayet.rajit.101@gmail.com" class="link-plain">Email</a> / <a href="http://scholar.google.com/citations?user=u0oB9uQAAAAJ" class="link-plain">Google Scholar</a> / <a href="http://github.com/ShafayetRajit" class="link-plain">Github</a> / <a href="http://linkedin.com/in/shafayetrajit" class="link-plain">Linkedin</a> 
 
-I hold a Bachelor of Science in Computer Science and Engineering from North South University, Bangladesh and currently work under the supervision of [Dr. Mohammad Rashedur Rahman](https://ece.northsouth.edu/people/rashedur-rahman/). Here, my primary research focuses on developing lightweight, efficient AI models tailored for edge computing and resource-constrained hardware. By reducing computational overhead without sacrificing reliability, this work enables seamless deployment of complex algorithms in real-world environments.
+I am pursuing a PhD in Veterinary Medicine under the supervision of [Dr Heather Grieve](https://people.ucd.ie/heather.grieve) and [Dr Rob Brennan](https://people.ucd.ie/rob.brennan) at University College Dublin, Ireland. Here, the goal is to use deep learning techniques on routinely collected veterinary data for population-level animal health surveillance. At the same time, the framework focuses on strong data governance practices to protect patient and owner privacy. 
 
+<hr>
 
-In parallel, I am working as a Quality Analyst at [Invisible Technologies Inc.](https://www.invisible.co/) In my role, I evaluate tasks completed by trainers to ensure they meet campaign standards and align with the most up-to-date instructions. This includes evaluating their performance on diverse tasks, identifying strengths and weaknesses, and contributing to benchmarks focused on accuracy, coherence, and execution.
+## Education
+
+**University College Dublin, Ireland** <br> School of Veterinary Medicine <br> PhD, Veterinary Medicine <br> *Sept 2026 - Present*
+
+**North South University, Bangladesh** <br> Department of Electrical and Computer Engineering <br> BS, Computer Science and Engineering <br> *2019 - 2023*
 
 <hr>
 
 ## Experience
 
 **Invisible Technologies Inc., USA** <br> 
-├─ Quality Analyst &mdash; *Sept 2025 - Present*<br>
+├─ Quality Analyst &mdash; *Sept 2025 - Aug 2026*<br>
 ├─ Advanced Artificial Intelligence Trainer &mdash; *Feb 2025 - Mar 2025*<br>
 ├─ Intermediate Artificial Intelligence Trainer &mdash; *Apr 2024 - Jan 2025*<br>
 
 
 **North South University, Bangladesh** <br> 
-├─ Research Assistant (under [Dr. Mohammad Rashedur Rahman](https://ece.northsouth.edu/people/rashedur-rahman/)) &mdash; *Apr 2025 - Present*<br>
+├─ Research Assistant (under [Dr. Mohammad Rashedur Rahman](https://ece.northsouth.edu/people/rashedur-rahman/)) &mdash; *Apr 2025 - Aug 2026*<br>
 ├─ Research Assistant (under [Dr. Shahnewaz Siddique](https://ece.northsouth.edu/people/dr-shahnewaz-siddique/)) &mdash; *Dec 2023 - Sept 2024*
 
 *See the <a href="{{site.url}}/experience/">complete experience overview</a> for detailed responsibilities.*
-
-<hr>
-
-## Education
-
-**North South University, Bangladesh** <br> Department of Electrical and Computer Engineering <br> BS, Computer Science and Engineering <br> *2019 - 2023*
 
 <hr>
 
