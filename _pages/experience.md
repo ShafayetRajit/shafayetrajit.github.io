@@ -47,6 +47,12 @@ published: true
 
 ## Organisational Roles
 
+### Association for Veterinary Informatics
+
+Student Member (Membership ID: 99341101)
+
+<br>
+
 ### North South University ACM Student Chapter
 
 Treasurer &mdash; *2022* *[[Certificate]]({{site.url}}/files/ACM_certificate_Shafayet.pdf)*
@@ -75,7 +81,7 @@ Student Member (Membership ID: 0937726)
 
 ### Peer-Reviewer
 
-- Expert Systems with Applications *[[Certificate]]({{site.url}}/files/Certificate_ESWA_Recognised.pdf)*
+- Expert Systems with Applications [[Certificate]]({{site.url}}/files/Certificate_ESWA_Recognised.pdf)
 
 
 
