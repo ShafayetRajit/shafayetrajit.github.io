@@ -48,9 +48,9 @@ published: true
 - Research Assistant &mdash; *Dec 2023 - Sept 2024* <br> Supervisor: Dr. Shahnewaz Siddique
     - Develop and refine AI models for analyzing medical images, particularly MRI scans.
     - Research and apply privacy-preserving AI techniques. 
-    - Focus on implementing secure methods for clinical data exchange. -->
+    - Focus on implementing secure methods for clinical data exchange. 
 
-    <!-- This work led to the publication of the paper "Multi-Class Brain Tumor Classification of MRI Image using Federated Learning with Blockchain", presented at IEEE Region 10 Symposium (TENSYMP) 2024. -->
+    This work led to the publication of the paper "Multi-Class Brain Tumor Classification of MRI Image using Federated Learning with Blockchain", presented at IEEE Region 10 Symposium (TENSYMP) 2024. -->
 
 <hr>
 
