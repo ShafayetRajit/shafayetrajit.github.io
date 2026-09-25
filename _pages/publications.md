@@ -18,10 +18,10 @@ published: true
 
 - **S. Rajit**, M. A. Al Sayed, **Federated Learning Based Histopathological Image Classification for Oral Squamous Cell Carcinoma**, *8th IEEE-EMBS Conference on Biomedical Engineering and Sciences (IECBES)*, 2024 [[Paper]](https://doi.org/10.1109/IECBES61011.2024.10991111)
 
-## Under Review
+## Pre-print/Under Review
+
+- M. M. H. Rakib, **S. Rajit**, F. Mahmud, M. M. Hasan, M. A. Khan, M. S. G. Adnan, R. M. Rahman, **Bridging Perceptual Quality and Machine Vision: Image Decolorization via Adaptive Three-Branch Fusion and Saliency-Guided Feature Refinement**, Available at SSRN 7404264. [[Paper]](https://dx.doi.org/10.2139/ssrn.7404264) 
 
 - M. Y. Hossain, **S. Rajit**, M. M. H. Rakib, S. Dev, **Reformulating Low-Light Image Enhancement as a Multi-Exposure Fusion Problem**. 
 
 - M. M. H. Rakib, **S. Rajit**, M. Y. Hossain, I. R. Nijhum, R. M. Rahman, **A Lightweight Biologically-Inspired Attention Module Through Center-Surround and Edge-Aware Priors**. 
-
-- M. M. H. Rakib, **S. Rajit**, F. Mahmud, M. M. Hasan, M. A. Khan, M. S. G. Adnan, R. M. Rahman, **Bridging Perceptual Quality and Machine Vision: Image Decolorization via Adaptive Three-Branch Fusion and Saliency-Guided Feature Refinement**, Available at SSRN 7404264. [[Paper]](https://dx.doi.org/10.2139/ssrn.7404264) 

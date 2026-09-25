@@ -35,14 +35,15 @@ I am pursuing a PhD in Veterinary Medicine under the supervision of [Dr Heather 
 ## Experience
 
 **Invisible Technologies Inc., USA** <br> 
-├─ Quality Analyst &mdash; *Sept 2025 - Aug 2026*<br>
-├─ Advanced Artificial Intelligence Trainer &mdash; *Feb 2025 - Mar 2025*<br>
-├─ Intermediate Artificial Intelligence Trainer &mdash; *Apr 2024 - Jan 2025*<br>
+├─ Quality Analyst (Reviewer) &mdash; *Sept 2025 - Sept 2026*<br>
+├─ Coding Artificial Intelligence Trainer &mdash; *Apr 2025 - Sept 2025*<br>
+├─ Advanced Artificial Intelligence Trainer &mdash; *Feb 2025 - Apr 2025*<br>
+├─ Intermediate Artificial Intelligence Trainer &mdash; *Apr 2024 - Feb 2025*<br>
 
 
 **North South University, Bangladesh** <br> 
-├─ Research Assistant (under [Dr. Mohammad Rashedur Rahman](https://ece.northsouth.edu/people/rashedur-rahman/)) &mdash; *Apr 2025 - Aug 2026*<br>
-├─ Research Assistant (under [Dr. Shahnewaz Siddique](https://ece.northsouth.edu/people/dr-shahnewaz-siddique/)) &mdash; *Dec 2023 - Sept 2024*
+├─ Research Assistant (under Dr. Tanzilur Rahman) &mdash; *Feb 2024 - July 2026*<br>
+<!-- ├─ Research Assistant (under [Dr. Shahnewaz Siddique](https://ece.northsouth.edu/people/dr-shahnewaz-siddique/)) &mdash; *Dec 2023 - Sept 2024* -->
 
 *See the <a href="{{site.url}}/experience/">complete experience overview</a> for detailed responsibilities.*
 

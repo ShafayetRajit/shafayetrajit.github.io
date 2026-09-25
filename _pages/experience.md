@@ -9,7 +9,7 @@ published: true
 
 ### Invisible Technologies Inc., USA
 
-- Quality Analyst &mdash; *Sept 2025 - Present*
+- Quality Analyst (Reviewer) &mdash; *Sept 2025 - Sept 2026*
     - Evaluate completed tasks to ensure they meet campaign standards and align with the most up-to-date instructions.
     - Ensure outputs follow the latest processes, protocols, and updated instructions.
     - Track quality trends and highlight opportunities for process optimization.<br><br>
@@ -32,16 +32,25 @@ published: true
 
 ### North South University, Bangladesh
 
-- Research Assistant &mdash; *Apr 2025 - Present* <br> Supervisor: Dr. Mohammad Rashedur Rahman
+- Research Assistant &mdash; *Feb 2024 - July 2026* <br> Supervisor: Dr. Tanzilur Rahman
+    - Developing modules to enhance deep learning models for bioinformatics tasks.
+    - Optimising advanced computational methods for resource-constrained devices.
+    - Deploying and ensuring efficient performance of AI models in hardware environments. <br>
+    
+    This work led to the publication of the paper “Classification of Potent Dengue Inhibitors Using 2-D Molecular Images With Structure-Based Augmentation and Grad-CAM Visualization”, at IEEE Access.
+    
+    <br>
+
+<!-- - Research Assistant &mdash; *Apr 2025 - Present* <br> Supervisor: Dr. Mohammad Rashedur Rahman
     - Optimizing advanced computational methods for resource-constrained devices.
     - Deploying and ensuring efficient performance of AI models in low-end hardware environments. <br><br>
 
 - Research Assistant &mdash; *Dec 2023 - Sept 2024* <br> Supervisor: Dr. Shahnewaz Siddique
     - Develop and refine AI models for analyzing medical images, particularly MRI scans.
     - Research and apply privacy-preserving AI techniques. 
-    - Focus on implementing secure methods for clinical data exchange.
+    - Focus on implementing secure methods for clinical data exchange. -->
 
-    This work led to the publication of the paper "Multi-Class Brain Tumor Classification of MRI Image using Federated Learning with Blockchain", presented at IEEE Region 10 Symposium (TENSYMP) 2024.
+    <!-- This work led to the publication of the paper "Multi-Class Brain Tumor Classification of MRI Image using Federated Learning with Blockchain", presented at IEEE Region 10 Symposium (TENSYMP) 2024. -->
 
 <hr>
 
